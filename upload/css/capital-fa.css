@@ -1,0 +1,301 @@
+@font-face{
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: bold;
+    font-display : swap;
+    src: url('../../css/fa-fonts/eot/iranyekanwebbold.eot');
+    src: url('../../css/fa-fonts/eot/iranyekanwebboldd41d.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+         url('../../css/fa-fonts/woff/iranyekanwebbold.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+         url('../../css/fa-fonts/ttf/iranyekanwebbold.ttf') format('truetype');
+}
+@font-face{
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: 100;
+    font-display : swap;
+    src: url('../../css/fa-fonts/eot/iranyekanwebthin.eot');
+    src: url('../../css/fa-fonts/eot/iranyekanwebthind41d.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+         url('../../css/fa-fonts/woff/iranyekanwebthin.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+         url('../../css/fa-fonts/ttf/iranyekanwebthin.ttf') format('truetype');
+}
+@font-face{
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: 300;
+    font-display : swap;
+    src: url('../../css/fa-fonts/eot/iranyekanweblight.eot');
+    src: url('../../css/fa-fonts/eot/iranyekanweblightd41d.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+         url('../../css/fa-fonts/woff/iranyekanweblight.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+         url('../../css/fa-fonts/ttf/iranyekanweblight.ttf') format('truetype');
+}
+@font-face{
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: normal;
+    font-display : swap;
+    src: url('../../css/fa-fonts/eot/iranyekanwebregular.eot');
+    src: url('../../css/fa-fonts/eot/iranyekanwebregulard41d.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+         url('../../css/fa-fonts/woff/iranyekanwebregular.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+         url('../../css/fa-fonts/ttf/iranyekanwebregular.ttf') format('truetype');
+}
+@font-face{
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: 500;
+    font-display : swap;
+    src: url('../../css/fa-fonts/eot/iranyekanwebmedium.eot');
+    src: url('../../css/fa-fonts/eot/iranyekanwebmediumd41d.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+         url('../../css/fa-fonts/woff/iranyekanwebmedium.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+         url('../../css/fa-fonts/ttf/iranyekanwebmedium.ttf') format('truetype');
+}
+@font-face{
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: 800;
+    font-display : swap;
+    src: url('../../css/fa-fonts/eot/iranyekanwebextrabold.eot');
+    src: url('../../css/fa-fonts/eot/iranyekanwebextraboldd41d.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+         url('../../css/fa-fonts/woff/iranyekanwebextrabold.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+         url('../../css/fa-fonts/ttf/iranyekanwebextrabold.ttf') format('truetype');
+}
+@font-face{
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: 900;
+    font-display : swap;
+    src: url('../../css/fa-fonts/eot/iranyekanwebblack.eot');
+    src: url('../../css/fa-fonts/eot/iranyekanwebblackd41d.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+         url('../../css/fa-fonts/woff/iranyekanwebblack.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+         url('../../css/fa-fonts/ttf/iranyekanwebblack.ttf') format('truetype');
+}
+@font-face{
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: 950;
+    font-display : swap;
+    src: url('../../css/fa-fonts/eot/iranyekanwebextrablack.eot');
+    src: url('../../css/fa-fonts/eot/iranyekanwebextrablackd41d.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+         url('../../css/fa-fonts/woff/iranyekanwebextrablack.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+         url('../../css/fa-fonts/ttf/iranyekanwebextrablack.ttf') format('truetype');
+}
+html{ font-family: iranyekan !important; direction: rtl; overflow-x: hidden; font-display : swap;}
+body{ font-family: iranyekan !important; font-display : swap;}
+h1, h2, h3, h4, h5, h6, input, select, button, textarea{ font-family: iranyekan !important; font-display : swap;}
+
+.banner_slider_rtl{ direction: ltr;}
+.banner_slider_rtl .banner_slider .slick-slide .row{ flex-direction: row-reverse;}
+.banner_slider_rtl .caption_pioint_sec{ left: auto; right: 15px;}
+.banner_slider_rtl .banner_data{ text-align: right;}
+
+h1{ font-weight: bold;}
+.banner_slider_rtl .slick-slide{ float: right;}
+.range_trading_slider {direction: ltr;}
+.range_trading_slider_rtl .range_trading_text{ font-size: 1.2rem; line-height: 1.67rem; color: #062652; font-weight: 300; padding: .65rem 18px; }
+.why_choose_desc{ color: #062652;}
+.forextrandingtabs .list-group a{ font-size: 1.21rem;}
+.forextrandingtabs .list-group a img{ width: 2.5rem; margin-left: 1.07rem; margin-right: inherit;}
+.forexheadingleft img{ min-width: 3.43rem; margin-left: 1.43rem; margin-right: inherit;}
+.askquestion .card-header button{ width: 100%; border: 0px; text-align: right; padding: 1.5rem 1.2rem; text-decoration: none; /*background: transparent;*/ font-size: 1.44rem; color: #151515; padding-left: 3.57rem;}
+.askquestion .card-body{ color: #40404c; background: #f3fbfe; font-size: 1.2rem; color: #403F4D; line-height: 1.8; padding: 15px 20px; font-weight: 400;}
+.how_use_copytrade_list_text{ padding-right: 1.2rem; padding-left: inherit;}
+.Benefitslist li img{ margin-left: 1.43rem; margin-right: inherit;}
+.copy_trade_form_sec::after{ left: 0%; right: inherit;}
+.contact_form_left_data{ padding-right: 30px; padding-left: inherit;}
+.signup_info_list_desc{ padding-right: 1.43rem; padding-left: inherit;}
+.contact_form_left_heading{ padding-top: 1.5rem;}
+.table_deposit{ min-width: 9rem;}
+.deposit_withdrawal_tab_link_icon{ margin-left: 1.5rem; margin-right: inherit;}
+.deposit_withdrawal_table table th{ font-size: 1.3rem;}
+.deposit_withdrawal_table table td{ font-size: 1.1rem;} 
+.table_card_name{ color: #28A6F0; font-weight: 500; font-size: 1.3rem;}
+.pay_info_list li{ min-width: 100%; flex: 1; font-size: 1.2em; color: #062652; font-weight: 500; padding: 0.5rem 01rem;} 
+.country_code{ border-left: 2px solid #707786; border-right: inherit; border-bottom: 2px solid #707786; font-weight: 400; color: #707786; padding-top: 0.4rem;}
+.input_effect, select.input_effect{ color: #0D67F9!important;}
+.password_icon{ position: absolute; top: 50%; right: inherit; transform: translate(0%, -50%); left: 0;}
+.mobile_field .input_effect ~ label{ right: 1.07rem; left: inherit;}
+.password_sec .input_effect{ padding-left: 2.5rem; padding-right: inherit;}
+.border-right{ border-right: 1px solid #dee2e6!important;}
+.Advantagesmain .boxbody.border-right {border-right: none!important;}
+.support_now_title{ font-size: 2.4rem; color: #ffffff;}
+.slick-slider{ direction: ltr;}
+.owl-carousel .owl-nav button.owl-prev, .owl-carousel .owl-nav button.owl-next{ transform: rotate(180deg);}
+.banner_data{ direction: rtl;}
+.range_trading_btn{ font-size: 1.2rem; font-weight: 600;}
+.why_choose_btn_view{ transition: all 0.5s ease-out; color: #062652; font-weight: 500;}
+.contract_specifications_left li a img{ margin-left: 1rem; margin-right: 0rem;}
+.featuresflex{ flex-direction: row-reverse;}
+.Advantagesinner{ min-height: 23.5rem;}
+.border5R{ border-left: 5px solid #100f49 !important; border-right: 0px;}
+span.customercontent{ padding-left: 0px; padding-right: 15px;}
+.innertablescontent p{ padding-left: 0rem; padding-right: 1.78rem;}
+.innertablescontent p::before{ left: auto; right: 2px;}
+.daily_forex_news_slider_rtl .owl-nav{ right: auto; left: 15px;}
+.daily_forex_news_data_sec{ min-height: 16rem;}
+.daily_financial_news_video iframe{ height: 32rem !important;}
+.daily_forex_news_img{ height: 15rem; overflow: hidden; display: flex; align-items: center; justify-content: center;}
+
+.meta_trader_left{ padding-right: 0rem; padding-left: 3rem;}
+.meta_trader_right{ padding-left: 0; padding-right: 3rem;}
+.meta_trader_infolist li:hover{ left: auto; right: -3rem;}
+.meta_trader_infolist_data{ padding-left: 0rem; padding-right: 1.4rem;}
+span.metacontent{ padding-left: 0px; padding-right: 10px;}
+
+.overview_data li, .overview_icon_name {font-weight: 400;}
+.overview_data li span, .overview_data li small{line-height: 140%;}
+.enjoy_seamless_trading_sec .range_trading_block::after{left: -1px;}
+.enjoy_seamless_trading_sec .range_trading_block.last::after{ display: none;}
+/* .section_title small{font-weight: 400;} */
+.forexheadingleft {display: flex; align-items: center;}
+.forexheadingleft .section_title {margin-bottom:0rem!important; }
+
+.deposit_withdrawal_table_mobile_view .collepse_heading .pay_collapse_arrow {transform: rotate(0deg);}
+.deposit_withdrawal_table_mobile_view .collepse_heading[aria-expanded="true"] .pay_collapse_arrow {transform: rotate(-90deg);}
+
+.navigation .navbar-nav li a.dropdown-toggle,
+.mview_language_dropdown a{ padding-right: .6rem; padding-left: 25px;}
+.dropdown-toggle::after{ left: 0; right: auto; margin-left: 0;}
+#sidebar ul li>ul li a span{transform: scaleX(-1);}
+
+.latestfist_blogbtn { margin-left: inherit;  margin-right: auto;}
+.author_details { margin-left: 12px; margin-right: 12px;}
+.range_trading_btn{direction: rtl;}
+.blogshare_icon{ transform: scaleX(-1);}
+.blog-sharing { margin-left: inherit; margin-right: auto;}
+.blog_addtime i{margin-left: 6px;}
+.blog_addtime i.fa-clock{margin-left: 0px;}
+.range_trading_block{direction:rtl;}
+.range_trading_slider_block{ padding-left: 0rem; padding-right: 12rem;}
+.owl-nav{ left: auto; right: -12rem;}
+.input_effect,
+.invalid-feedback{ direction: rtl;}
+.mobile_field .input_effect ~ label{ left: 0rem;}
+.related_articles_read_more{ margin-left: 0px; margin-right: auto;}
+#sidebar ul li>ul li a span{ margin-left: 0px !important; margin-right: auto !important;}
+.blog_addtime{ margin-left: 0rem; margin-right: 0.5rem;}
+.latest_blog_title{ left: auto; right: 0px;}
+.sliderbox_btn{ direction: rtl;}
+
+.popular_blog_details{flex-direction: row-reverse;}
+.popular_blog_shortdetails{margin-left: auto;}
+
+.copytrading_topbanner {background-image:url(../../uploads/copy-trading-bg-rtl.html);}
+
+.slick-youtube-slider-fa .slick-arrow{position: absolute; left: 0rem; top: -4rem; right: 100%; min-width: 5rem; display: flex; justify-content:center; background-color: #E4F7FF; font-size: 2rem; border: 1px solid #f1f1f1; line-height: 1; color: #7C9CB0; padding: 0.65rem 15px !important;}
+.slick-youtube-slider-fa .slick-arrow.slick-next {margin-left: 6rem;}
+.slick-youtube-slider-fa .slick-arrow.slick-prev{margin-left: 0rem;}
+.slick-youtube-slider-fa .slick-arrow:hover{background: linear-gradient(85.21deg, #0D67F9 0.61%, #4DCBF3 104.97%); color: #fff;}
+.h_iframe-aparat_embed_frame iframe{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; /* border-width: 5px; */ padding: 4px; display: flex !important; border: 1px solid rgba(0,0,0,0.1); background-color: #ffffff; padding: 5px;}
+
+/*.contact_form_list_info .signup_info_list_desc_text {direction: ltr;}*/
+
+
+/* license and certificate page  */
+.license_certificate_arrow {left: auto; right: 6rem;}
+.license_certificate_list_data {padding-left: 0px; padding-right: 8rem;}
+
+.newaward_imglistitsm li{margin: 1rem 0rem 1rem 2rem;}
+.new_awardimg_wrap{margin-left: 0px; margin-right: auto;}
+
+@media(min-width: 1920px){
+.banner_data{ margin-top: 3rem !important;}
+.forex_banner_data_sec .banner_data{ margin-top: 0rem !important;}
+.caption_pioint_sec li:nth-child(3){ padding-top: 5.5rem !important;}
+.range_trading_slider_block{ padding-left: 0rem; padding-right: 15rem;}
+}
+
+@media (max-width: 1599.98px){
+.header_title {font-size: 2.7rem;}
+}
+
+@media (max-width: 1439.98px){
+.support_now_btn img {width: 5rem;}
+}
+@media (max-width: 1365.98px){
+.header_title, .InnerPage .header_title {font-size: 3rem;}
+.caption_pioint_sec {width: 56.5rem;}
+
+.license_certificate_arrow {right: 4rem;}
+.license_certificate_list_data {padding-right: 6rem;}
+}
+
+@media (max-width: 1199.98px){
+.header_title {font-size: 2rem;}
+.caption_pioint_sec{top: 22rem; width: 50rem;}
+.support_now_title {font-size: 1.8rem;}
+.support_now_title small {font-size: 50%;}
+.support_now_btn {font-size: 1.28rem; padding: 0.5rem 1.07rem;}
+.forextrandingtabs .list-group a{font-size: 1.07rem;}
+.forextrandingtabs .list-group a img {margin-right: 10px; margin-left: 10px;}
+.boxbody.border-right {border-left: none!important;} 
+.banner_bonus_slide_img img{height: auto;}
+.subcategory_slider_sec{display: none;}
+}
+
+@media(max-width: 991.98px){
+.contract_specifications_left.border-right{ border-left: 0px !important;}
+.standered{ text-align: right !important;}
+.header_title {font-size: 2rem;}
+.caption_pioint_sec {width: 35rem;}
+.support_now_btn img{width: 3.5rem; margin-left: 0rem!important;}
+.support_now_title small {font-size: 60%;}
+.banner_sec .banner_graphics {bottom: 19rem;}
+.forextrandingtabs .list-group a {font-size: 10px;}
+.forextrandingtabs .list-group a img {width: 20px; margin-right: 5px;}
+.advantagesinner_data_sec {text-align: right; padding-right: 15px; padding-left: 0px;}
+.section_title small.sub{font-weight: 300;}
+.table_click_view_link img{ margin-right: 0px; margin-left: 15px;}
+.meta_trader_left{ padding-left: 0rem;}
+.meta_trader_right{ padding-right: 0rem;}
+
+.new_awardimg_wrap {margin-left: auto;}
+.newaward_imglistitsm li{margin: initial;}
+}
+
+@media(max-width: 767.98px){
+.contact_form_left_data{ padding-right: 20px; padding-left: 20px;}
+.overview_btns .btn {margin: 0.5rem 0rem!important; min-width: 20rem;}
+.banner_sec .banner_graphics {bottom: 42rem;}
+.owl-carousel .owl-nav button.owl-prev, .owl-carousel .owl-nav button.owl-next{ transform: rotate(0deg);}
+.keyFeather .owl-nav {transform: scaleX(-1);}
+.askquestion .card-header button{font-size: 1.14rem;}
+.range_trading_slider_block{ padding-right: 0rem;}
+
+.title_social{width: 100%; }
+.socail_link{display: flex; flex-wrap: wrap; justify-content: flex-start;} 
+
+.license_certificate_arrow {right: 30px;}
+}
+
+@media(max-width: 575.98px){
+ .signup_info_list_desc {padding-right: 0rem;}
+.popular_blog_details{flex-direction: column;}
+
+.newaward_imglistitsm li {margin: auto;}
+}
+
+@media(max-width: 479.98px){
+.support_now_btn {text-align: center; align-items: center; display: flex;}
+.socail_link a{margin-bottom:15px;}
+
+.license_certificate_arrow {display: none;}
+.license_certificate_list_data {padding-right: 0px;}
+}
+
+.contract_specifications_table_sec tbody tr, .spreadsForex .table tbody tr td {direction: ltr;}
+
+.most_popular_blog.blog_detail_content_view ul, .most_popular_blog.blog_detail_content_view ol{margin: auto 3rem;}
+/****Company news******/
+.recent-added .i-box { margin-right: 0 !important; margin-left: 1.25rem !important;}
+.recent-added {margin-right: 0 !important; margin-left: 1.25rem !important;}
+.news-nav-topbar .company-news .readmore {margin-left: 0 !important; margin-right: auto !important;}
+.news-top .nav-pills li .nav-link {border-left: solid 1px #DAE1EA !important; border-right: 0 !important;}
+.news-top.tab-right .nav-pills li:last-child a.nav-link{border-left: 0 !important;}
+.contract_specifications_table_sec tbody tr, .spreadsForex .table tbody tr td {direction: ltr;}
+.news-top.tab-right .nav-pills li:first-child{display: none;}
+a.news-loadmore.load_morebtn {display: none;}
+.news-bg{background-image: url('../../uploads/forexacademy-desktop-bgfa.webp');}
+.news-back-btn {margin: 5px; transform: scaleX(-1);}
+.news_body_text ul li{margin-right: 20px;}
+.news_body_text p a {color: #007bff;}
+.news_body_text p a strong {color: #007bff;}
+form.login_signup_form_sec .checkbox_parent #agree-error{left: auto; right: 35px;}

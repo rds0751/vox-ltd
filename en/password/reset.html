@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="en">
+    
+<!-- Mirrored from voxalimited.com/en/password/reset by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Sep 2023 11:14:18 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+        <meta charset="UTF-8">
+        <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+                <link rel="shortcut icon" type="image/x-icon" href="../../img/favicon.ico">
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600;700;800;900&amp;display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="../../../use.fontawesome.com/releases/v5.7.1/css/all.css">
+        <link rel="stylesheet" href="../../css/app/cx-capitalxt.css" />
+                    <link rel="stylesheet" href="../../css/app/bootstrap.min.css" />
+                <link rel="stylesheet" href="../../css/app/owl.carousel.min.css" />
+                
+                    
+            <link rel="stylesheet" href="../../css/app/bootstrap.min.css" />
+    
+    
+                        <link rel="stylesheet" type="text/css" href="../../upload/css/capital-custom4.css">
+                    <link rel="stylesheet" type="text/css" href="../../upload/css/capital-media2.css">
+                    <link rel="stylesheet" type="text/css" href="../../upload/css/capital-developer.css">
+                <style type="text/css">
+    .error-field {
+        color: #de0d0d;
+        font-size: 12px;
+    }
+    .input_effect.error {
+        border-color: #de0d0d;
+    }
+    .reset_link {
+        font-size: 15px;
+    }
+</style>
+                <style type="text/css">
+            #loader-wrapper{
+                opacity: 0.5;
+            }
+        </style>
+                
+    </head>
+    <body class="login_signup_bg" style="background-image: url(../../img/login_signup_bg.jpg);">
+        
+        <!-- Scroll to top -->
+        <div id="pageTop"> <span class="totop"><a href="#"><i class="fa fa-angle-up"></i></a></span> </div>
+        <!-- Scroll to top -->
+        <div class="full_container">
+                        <div class="login_signup_sec">
+    <div class="container py-4 py-sm-5">
+        <div class="row justify-content-center pt-4">
+            <div class="col-12 col-md-10 col-lg-6 col-xl-5">
+                <div class="login_signup_form_title text-center mb-5"><span>Forgot Your Password?</span></div>
+                                <form id="myformsub" method="post" action="https://voxalimited.com/en/password/email" class="login_signup_form_sec">
+                    <input type="hidden" name="_token" value="9X4VieZnaiG4TlPmffYnEib3KZIngnCcRpEuqdqR">                    <div class="login_signup_form_heading text-center text-uppercase">Reset Password</div>
+                    <div class="login_signup_form_fields">
+                        <div class="input_field_sec input-effect mb-5">
+                            <input class="input_effect email_address" type="email" name="email" />
+                            <label>
+                                Email
+                            </label>
+                                                             
+                        </div>
+                        
+                        <div class="row justify-content-center">
+                            <div class="col-12 col-md-9 col-lg-7">
+                                <div class="login_signup_btns">
+                                    <button type="submit" class="w-100 btn reset_link">
+                                        Send Reset Password Link
+                                        <i class="ml-2 fas fa-spinner fa-spin d-none"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="already_account_text text-center pt-5 pb-4">
+                            Already have an account?
+                            <a href="../../login.html">
+                                LOG IN
+                            </a>
+                        </div>
+                    </div>                    
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+        <div>
+
+        
+
+        <!-- Optional JavaScript -->
+        <script type="text/javascript" src="../../js/app/jquery.min.js"></script>
+        <script type="text/javascript" src="../../js/app/popper.min.js"></script>
+        <script type="text/javascript" src="../../js/app/bootstrap.min.js"></script>
+        <script type="text/javascript" src="../../js/app/owl.carousel.js"></script>
+        <script type="text/javascript" src="../../js/app/owl.carousel2.thumbs.min.js"></script>
+        <script type="text/javascript" src="../../js/app/lottie-player.js"></script>
+
+        <script type="text/javascript" src="../../js/app/auth-custom.js"></script>
+        <script type="text/javascript" src="../../js/app/lottie.min.js"></script>
+        <script type="text/javascript" src="../../js/app/jquery.validate.min.js"></script>
+        
+        <script>
+            $(".lange_chnage").click(function() {
+                var val = $(this).data("val");
+                let c = [];
+                for (let a = 2; a < location.pathname.split("../../index.html").length; a++) c.push(location.pathname.split("../../index.html")[a]);
+               if(window.location.pathname == "/register")  
+                window.location.href = location.origin + "/" + val + window.location.pathname + window.location.search;
+              else if (window.location.pathname == "/login")  
+                window.location.href = location.origin + "/" + val + window.location.pathname + window.location.search;
+               else   
+                window.location.href = location.origin + "/" + val + "/" + c.join("../../index.html") + window.location.hash + window.location.search;
+            });
+        </script>
+                        
+    <script type="text/javascript">
+        $(document).ready(function () {
+            
+            $( "#myformsub" ).validate({
+                errorElement: 'div',
+                errorClass: 'error-field',
+                rules: {
+                  email: {required: true, email: true},
+                  password: {required: true}
+                },
+                messages :{
+                    "email" : {
+                        required: "This field is required",
+                        email: "This field is required"
+                    },
+                    "password" : {
+                        required: "This field is required"
+                    }
+                },
+            });
+
+                    });
+    </script>
+
+          <script>(function(){var js = "window['__CF$cv$params']={r:'80a1d17abbc28aee',t:'MTY5NTI5NDE3MS41NjcwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='../../cdn-cgi/challenge-platform/h/b/scripts/jsd/8370c0b3/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8b253dfea2ab4077af8c6f58422dfbfd1689876627854" integrity="sha512-bjgnUKX4azu3dLTVtie9u6TKqgx29RBwfj3QXYt5EKfWM/9hPSAI/4qcV5NACjwAo8UtTeWefx6Zq5PHcMm7Tg==" data-cf-beacon='{"rayId":"80a1d17abbc28aee","version":"2023.8.0","b":1,"token":"8f1e857554d449d197b9dbf7b9154064","si":100}' crossorigin="anonymous"></script>
+</body>
+
+<!-- Mirrored from voxalimited.com/en/password/reset by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 21 Sep 2023 11:14:19 GMT -->
+</html>

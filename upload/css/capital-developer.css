@@ -1,0 +1,402 @@
+::-webkit-scrollbar{ width: 8px; height: 8px; box-shadow: 0px 0px 0px transparent; background-color: rgba(0,0,0,0.1); border-radius: 8px;}
+::-webkit-scrollbar-thumb{ border-radius: 8px; background-color: rgba(0, 0, 0, 0.4); height: 3px;}
+
+.navigation .navbar-nav li .nav_dropdown ul.language_drop_down_web{ padding: 0rem 0rem;}
+.navigation .navbar-nav li .nav_dropdown ul.language_drop_down_web li{ color: #403F4D; border-bottom: 1px solid transparent; padding: 0.65rem 0rem; font-weight:500;}
+.navigation .navbar-nav li .nav_dropdown ul.language_drop_down_web li:hover{ color: #0D67F9; border-color: #0D67F9;}
+.navigation .navbar-nav li .nav_dropdown ul.language_drop_down_web li input,
+.navigation .language_dropdown_mobile_view .mview_language_dropdown .nav_dropdown .language_drop_down_web li input{ width: 100%; height: 100%; position: absolute; top: 0rem; left: 0rem; opacity: 0; cursor: pointer; z-index: 2;}
+.navigation .navbar-nav li .nav_dropdown ul.language_drop_down_web li .language_radio,
+.navigation .language_dropdown_mobile_view .mview_language_dropdown .nav_dropdown .language_radio{ display: none;}
+
+.navigation .language_dropdown_mobile_view .mview_language_dropdown .nav_dropdown{ min-width: 20rem;}
+.navigation .language_dropdown_mobile_view .mview_language_dropdown:hover .nav_dropdown{ visibility: visible; opacity: 1; transform: translate(-50%, 0px);}
+
+.navigation .language_dropdown_mobile_view .mview_language_dropdown .nav_dropdown .language_drop_down_web{ width: 100%;}
+.navigation .language_dropdown_mobile_view .mview_language_dropdown .nav_dropdown .language_drop_down_web li{ position: relative; color: #403F4D; padding: 0.65rem 0rem;  font-weight: 500;}
+
+.daily_forex_news_slider .owl-nav{ align-items: stretch;}
+
+.slick-slider{ -webkit-user-select: text; -khtml-user-select: text; -moz-user-select: text; -ms-user-select: text; user-select: text;}
+.slick-list.draggable{ -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none;}
+
+.tablelistinnercheck span.text{ border: none; width: auto; font-size: 1rem; font-weight: 400; height: auto;}
+.tablelistinnercheck.text-left.small span{ font-size: 0.8rem; height: auto;}
+
+.banner_bonus_slide_img img{ width: auto; max-width: initial; height: 50rem; display: inline-block; margin-left: -8rem;}
+
+.trustedouter h3{ margin: 15px 0px; color: #062652; font-size: 1.28rem;}
+span.feathercontent h3{ font-size: 1.28rem; color: #062652; margin-bottom: 0.7rem;}
+q::before, q::after{ content: '';}
+.PresenceInnerbox h3{ font-size: 3.93rem; font-weight: 500; color: #fff; display: flex; justify-content: center;}
+.risk_disclosure_list_sec ol p{ font-size: 1.14rem; color: #71707B; font-weight: 300;}
+.how_use_copytrade_list_text  h3{ font-size: 1.5rem;}
+.copy_trading_sec .copy_trading_text_p{ color: #0d68f8; font-weight: normal; font-size: 2.14rem; margin-bottom: 0;}
+.keyFeather  h4{ color: rgb(7, 38, 82); font-size: 1.93rem; text-transform: capitalize; font-weight: 500; margin-bottom: 25px;}
+span.feathercontent h5{ font-size: 1.28rem; color: #062652; margin-bottom: 0.7rem;}
+.introducing_broker h3{ color: #106bf9;}
+
+/* shareholder section  */
+.shareholder_sec { min-height:52rem; display: flex; align-items: center; background-repeat: no-repeat; background-position: top center; background-size: cover; padding-bottom: 8rem !important;}
+.des_block .dark_text,
+.des_block .light_text {color:#062652; font-weight: normal; font-size: 1.14rem; font-weight: 300;}
+.des_block .light_text { color:#71707B;}
+.name_block .shareholder_title{ color: #062652; font-size: 3rem; line-height: 1.3; font-weight: 600;}
+.name_block .shareholder_name{ color: #0D67F9; font-size: 1.35rem; line-height: 1.3;}
+.main_shareholder{ display: flex; align-items: flex-end; position: relative; background: transparent;}
+.main_shareholder:after{ width: 100%; min-height: calc(100% - 20rem); background: #ffffff; box-shadow: 0px 29px 61px rgba(107, 200, 251, 0.18); position: absolute; top: calc(0% + 20rem); left: 0%; content: '';}
+.main_shareholder .left_sec,
+.main_shareholder .right_sec{ width: 100%; position: relative; z-index: 2;}
+.main_shareholder .right_sec{ min-width: 35rem; width: 35rem; text-align: center; position: static; margin-left: auto;}
+.shareholder_white-content-block{ padding: 3rem;}
+.shareholder_topblock{ margin:0rem 0rem 4rem;}
+.top_content{ width: 100%; padding: 0rem 4rem;}
+.block_content{ color: #062652; font-size: 2.28rem; font-weight: 500; line-height: 1.4;}
+.block_content span{ display: inline; position: relative;}
+.block_content span::before{ width: 2rem; height: 2rem; position: absolute; top: 0.5rem; left: -3.5rem; background: url(../../img/blk_right.svg); background-position: top left; background-repeat: no-repeat; background-size: contain; content: '';}
+.block_content span::after{  width: 2rem; height: 2rem; position: absolute; right: -3.5rem; bottom:0.3rem; background: url(../../img/blk_left.svg); background-repeat: no-repeat; background-position: top left; background-size: contain; content: '';}
+.top_content p{color: #71707B; font-size: 1.28rem; line-height: 1.6; font-weight: 300;}
+/* shareholder section  */
+
+.Advantagesinner h3{ color: #062754; margin: 15px 0px; font-size:1.25rem;}
+.askquestion .card-header button h3 {font-size: 1.14rem;}
+
+.awards_view{ display: flex; margin-left: -10px; margin-right: -10px; align-items: center;}
+.awards_view li{ padding: 0px 5px;}
+.awards_view li img{ width: 7.5rem; display: inline-block;}
+.footer_awards_view{ padding-top: 50px;}
+.footer_awards_view li img{ width: 10.5rem; display: inline-block;}
+
+/* Career-Page */
+.career_banner_sec{ display: flex; align-items: flex-end; justify-content: center;}
+.banner_sec.career_banner_sec > .container{ padding-top: 0rem !important;}
+.career_banner_image img{ max-width: 43.21rem;}
+.career_banner_sec .banner_data{ margin-bottom: 15rem;}
+.career_about_sec{ background-color: #ffffff; background-repeat: no-repeat; background-position: top right; background-size: auto;}
+.global_presence_block{ background: #FFFFFF; border: 1px solid #FFFFFF; box-shadow: 14px 30px 66px rgba(45, 163, 214, 0.15); border-radius: 12px; transform: translate(0%, -50%); display: flex; padding: 2.85rem 2.85rem;}
+.global_presence_title_view{ min-width: 18rem; width: 18rem; text-align: center; margin-top: -10rem;}
+.global_presence_title{ font-size: 2rem; font-weight: 600; color: #062652; line-height: 128%;}
+.career_global_clients{ width: 100%; display: flex; align-items: center; border-left: 1px solid; border-image-slice: 1; border-image-source: linear-gradient(180deg, rgba(208, 222, 237, 0) 0%, #D0DEED 50.41%, rgba(208, 222, 237, 0) 100%); position: relative; padding: 0rem 2.15rem; padding-right: 0rem; margin: 0rem 2.85rem; margin-right: 0rem;}
+.career_global_clients:before{ width: 0; height: 0; border-top: 6px solid transparent; border-bottom: 6px solid transparent; border-left: 6px solid #D0DEED; position: absolute; top: 50%; left: 0%; content: '';}
+.career_global_clients li{ min-width: 18.3rem; border-left: 1px solid #EEF0F7; font-size: 3.21rem; font-weight: 600; color: #0D67F9; line-height: 100%; padding: 0rem 2.85rem;}
+.career_global_clients li:first-child{ border-left: 0px solid #EEF0F7;}
+.career_global_clients li small{ display: block; font-size: 33.3333%; font-weight: 500; color: #403F4D; line-height: 100%; margin-top: 15px;}
+.career_about_block{ display: flex; padding: 0rem 0rem 10rem; margin-left: -15px; margin-right: -15px;}
+.career_about_left,
+.career_about_right{ width: 100%; max-width: 55%; flex: 0 0 55%; padding-left: 15px; padding-right: 15px;}
+.career_about_right{ max-width: 40%; flex: 0 0 40%; margin-left: 5%;}
+.career_about_icon img{ max-width: 36.93rem;}
+.career_section_title{ font-size: 2.57rem; font-weight: 600; color: #062652; line-height: 128%;}
+.career_peragraph_text{ font-size: 1.14rem; font-weight: 400; color: #71707B; line-height: 192%;}
+.career_about_btn .btn{ min-width: 16.43rem; min-height: 3.71rem; font-size: 1.21rem; color: #0D68F9 !important; font-weight: 400; background: #ffffff; box-shadow: 0px 8px 15px rgba(8, 154, 246, 0.1); border: 1px solid; border-image-slice: 1; border-image-source: linear-gradient(to bottom, #42B1F5 0%, #2183f8 100%); padding: .5rem 15px;}
+.career_about_btn .btn:hover{ background: linear-gradient(85.21deg, #0D67F9 0.61%, #4DCBF3 104.97%); color: #ffffff !important;}
+.we_looking_sec{ background-repeat: no-repeat; background-position: top center; background-size: 100%; background-color: #e9f1fa; padding: 8.93rem 0rem;}
+.we_looking_list{ display: flex; flex-wrap: wrap; margin-left: -25px; margin-right: -25px;}
+.we_looking_list > li{ width: calc(100% - 50px); max-width: calc(50% - 50px); flex: 0 0 calc(50% - 50px); background: #FFFFFF; border-radius: 16px; overflow: hidden; margin: 15px 25px;}
+.employee_role_block{ display: flex; padding: 2rem;}
+.employee_role_icon{ min-width: 4.14rem; width: 4.14rem; height: 4.14rem; display: flex; align-items: center; justify-content: center; background: rgba(136, 215, 255, 0.17); border-radius: 6px; margin-right: 15px;}
+.employee_role_title{ font-size: 1.86rem; font-weight: 500; color: #062652; line-height: 128%; margin-bottom: 8px;}
+.employee_role_desc{ max-height: 48px; overflow: auto; font-size: 1.07rem; font-weight: 400; color: #919191; line-height: 153.33%;}
+
+.career_job_type{ display: inline-flex; margin-left: -20px; margin-right: -20px;}
+.career_job_type li{ border-left: 1px solid #C4C4C4; font-size: 1.07rem; font-weight: 500; color: #919191; line-height: 140%; padding: 0px 20px;}
+.career_job_type li:first-child{ border-left: 0px solid #C4C4C4;}
+.career_job_type li span{ display: block; color: #062652;}
+.career_apply_now_block{ min-height: 6.57rem; display: flex; align-items: center; background-color: #EFF4FA; padding: 2rem;}
+.career_apply_now .btn{ min-width: 11.07rem; min-height: 2.79rem; border-radius: 7px; font-size: 13px; color: #ffffff; font-weight: 400; padding: 5px 15px;}
+
+.gorw_with_sec{ background-color: #ffffff; background-repeat: no-repeat; background-position: top right; padding: 10rem 0rem 3.5rem;}
+.grow_with_image{ margin-top: 5.5rem;}
+.grow_with_list_first{ padding-top: 8rem;}
+.gorw_with_sec .trustedouter{ padding: 35px 20px;}
+
+.career_form_sec{ background-color: #ffffff; padding-bottom: 100px; margin-bottom: -85px;}
+.career_form_block{ position: relative; z-index: 2;}
+.career_form_sec:before{ width: 50%; height: 100%; background-color: #ecfbff; position: absolute; top: 0%; left: 0%; content: '';}
+.career_form_sec:after{ width: 50%; height: 100%; background-color: #ffffff; box-shadow: -5px 0px 34px rgba(62, 73, 101, 0.05); position: absolute; top: 0%; right: 0%; content: '';}
+.career_form_sec .signup_left_sec{ padding-left: 0rem;}
+.career_form_desc_title{ font-size: 2.93rem; font-weight: 400; color: #062652; line-height: 128%; margin-bottom: 1.5rem;}
+.career_form_desc_title span{ display: block; font-size: 48.78%; font-weight: 500; color: #0D67F9; line-height: 140%;}
+.job_desc_text_block{ width: 100%; float: left; margin-top: 40px;}
+.job_desc_text_block p{ font-size: 1.07rem; color: #585E6A; font-weight: 300; line-height: 186.66%;}
+.job_desc_title{ font-size: 1.43rem; font-weight: 500; line-height: 140%; color: #062652; margin-bottom: .65rem;}
+.job_desc_type_list{ width: 100%; float: left; background: linear-gradient(90deg, #FFFFFF 25.89%, rgba(255, 255, 255, 0) 100%); display: flex; padding: 1.78rem 0rem; margin-top: 40px;}
+.job_desc_type_list li{ border-left: 1px solid rgba(93, 121, 190, 0.23); font-size: 1.43rem; font-weight: 500; color: #062652; line-height: 140%; padding: 0rem 2.85rem;}
+.job_desc_type_list li span{ display: block; color: #0D67F9;}
+.job_desc_type_list li:first-child{ border-left: 0px;}
+
+.job_desc_btn{ width: 100%; float: left; margin-top: 40px;}
+.job_desc_btn .btn{ min-width: 17.35rem; min-height: 3.64rem; background: #FFFFFF; box-shadow: 0px 4px 15px rgba(8, 154, 246, 0.24); color: #0D68F9 !important; border: 1px solid; border-image-slice: 1; border-image-source: linear-gradient(to bottom, #47B8F5 0%, #2588f8 100%); padding: .5rem 15px;}
+.job_desc_btn .btn:hover{ background: linear-gradient(85.21deg, #0D67F9 0.61%, #4DCBF3 104.97%); color: #ffffff !important;}
+
+.career_form_block .login_signup_form_sec{ width: 100%; max-width: 40.5rem; box-shadow: 0px 2px 22px transparent; margin: 0px auto;}
+.career_form_block .login_signup_form_heading{ min-height: inherit; justify-content: flex-start; font-size: 2rem; line-height: 123%; color: #062652; font-weight: 600; background: none; margin-bottom: 100px;}
+.career_form_block .login_signup_form_heading span{ display: inline-block; border-bottom: 4px solid #0D67F9; padding: 12px 0px; padding-right: 20px;}
+.career_form_block .login_signup_form_fields{ padding: 0rem 0rem;}
+.career_form_block .input_field_sec{ width: 100%; display: flex;}
+.career_form_block .input_effect,
+.career_form_block .input_effect ~ .focus-border,
+.career_form_block .input_field_sec .dropdown-toggle,
+.career_form_block .country_code{ border-width: 1px;}
+.input_field_name{ font-size: 1.14rem; font-weight: 500; color: #6D768F; line-height: 137.5%; margin-bottom: .5rem;}
+.resume_upload_block{ width: 100%; min-height: 6rem; display: flex; align-items: center; justify-content: center; font-size: 13px; font-weight: 500; color: #0D67F9; background: #F2FAFF; border-radius: 7px; border: 1px dashed #48baf5; position: relative;}
+.resume_upload_block input{ width: 100%; height: 100%; position: absolute; top: 0%; left: 0%; opacity: 0; cursor: pointer; z-index: 2;}
+.career_form_block .checkboxes_block{ font-weight: 300;}
+.career_form_block .checkboxes_block a{ color: #0D67F9; text-decoration: underline;}
+/* Career-Page */
+
+.Advantagesmain{display: flex;flex-wrap: wrap;}
+.marketing_phone_field{ position: relative !important;}
+.marketing_phone_field .country_code{ display: flex; height: 2.5rem; max-width: 7rem; min-width: 7rem; padding: 0.3rem 0rem !important;}
+.marketing_phone_field .dropdown-toggle::after{ display: none !important;}
+.marketing_phone_field .dropdown{ position: static !important;}
+.marketing_phone_field .dropdown-menu{ width: 100%; top: 100% !important; left: auto !important; right: 0rem !important; transform: translate(0%, 0%) !important;}
+.marketing_phone_field .countr_filter{ width: calc(100% - 30px); height: 35px; padding: 0px 10px; margin: 0 15px 10px;}
+.marketing_phone_field .country_dropdown{ height: 150px; overflow: scroll; overflow-x: hidden; text-align: left;}
+
+.contract_specifications_left_desktop{display: block;}
+.contract_spc_mobile_tab,
+.contract_spc_mobile_subtab{display: none;}
+.footer_menu{ width: 100%; display: flex; flex-wrap: wrap;}
+.footer_menu li{ flex: 1; padding-left: 15px; padding-right: 15px;}
+.footer_menu_mview_heading{ display: flex; align-items: center; cursor: pointer; padding: 0rem 0rem;}
+.footer_menu_mview_heading i{ font-size: 75%; visibility: hidden; opacity: 0;}
+.footer_menu_links{ display: block;}
+.footer_menu li a{ display: block; font-weight: 300; font-size: 1.07rem; color: #C1CBE3; padding: 0.5rem 0rem; margin: 0.5rem 0rem;}
+
+.footer_awards_wrapper { width: calc(100% + 4rem);}
+
+@media(max-width: 1679.98px) {
+.accountstable .table-responsive { overflow-x: hidden;}
+th.thcolor{ min-width: 300px;}
+.standered{ min-width: 250px;}
+}
+
+
+@media(max-width: 1599.98px){
+.header_title{font-size:2.7rem}
+/* ShareHolder */
+.shareholder_sec{ padding-bottom: 6rem !important;}
+/* ShareHolder */
+span.feathercontent h5{ font-size: 1.14rem;}
+/* account comparison table Start */
+th.thcolor{ min-width: 300px;}
+.standered{ min-width: 210px;}
+.accountstable .table-responsive { overflow-x: hidden;}
+/* account comparison table End */
+}
+
+@media(max-width: 1439.98px){
+.banner_bonus_slide_img img{ height: 45rem;}
+th.thcolor{ min-width: 275px;}
+}
+
+@media(max-width: 1365.98px){
+/* ShareHolder */
+.main_shareholder:after{ min-height: calc(100% - 14rem); top: calc(0% + 14rem);}
+.shareholder_sec{ min-height: 55rem;}
+.main_shareholder .right_sec{ min-width: 28rem; width: 28rem;}
+/* ShareHolder */
+.PresenceInnerbox h3{ font-size: 3rem;}
+span.feathercontent h5{ margin-bottom: 8px;}
+/* Career-Page */
+.career_banner_image img{ max-width: 33rem;}
+.global_presence_title_view{ min-width: 13.5rem; width: 13.5rem; margin-top: -8rem;}
+.global_presence_title,
+.employee_role_title{ font-size: 1.65rem;}
+.career_global_clients li{ min-width: 17.3rem; font-size: 2.8rem;}
+.employee_role_desc{ max-height: 65px; font-size: 14px;}
+/* Career-Page */
+}
+
+@media(max-width: 1199.98px){
+.banner_bonus_slide_img img{ height: 35rem; margin-left: -5rem;}
+/* ShareHolder */
+.main_shareholder:after{ top: calc(0% + 12.5rem);}
+.shareholder_topblock{ position: relative; margin: 0rem 0rem 2rem; z-index: 3;}
+.block_content{ font-size: 1.7rem;}
+.block_content span:before,
+.block_content span:after{ width: 1.6rem; height: 1.6rem;}
+/* ShareHolder */
+span.feathercontent h3 { margin-bottom: 5px;}
+.keyFeather  h4{font-size: 22px;}
+span.feathercontent h4 {    margin-bottom: 5px; }
+.brokersright h3 {  font-size: 22px; }
+.accountstable{padding-top:5rem;}
+/* Career-Page */
+.career_banner_image img{ max-width: 28rem;}
+.global_presence_block{ border-radius: 8px; transform: translate(0%, -5rem);}
+.career_global_clients li{ min-width: 15.5rem; font-size: 2.65rem; padding: 0rem 1.5rem;}
+.career_global_clients li small{ margin-top: 10px;}
+.career_form_desc_title{ font-size: 2.3rem; margin-bottom: 10px;}
+.job_desc_text_block,
+.job_desc_type_list,
+.job_desc_btn{ margin-top: 25px;}
+.job_desc_type_list{ padding: 1.3rem 0rem;}
+.job_desc_type_list li{ font-size: 1.28rem; padding: 0rem 1.3rem;}
+/* Career-Page */
+}
+
+@media(max-width: 991.98px){
+/*ShareHolder*/
+.shareholder_white-content-block{ background-color: #ffffff;}
+.main_shareholder{ display: block;}
+.shareholder_sec{ padding-top: 5rem !important; padding-bottom: 5rem !important;}
+.main_shareholder .right_sec{ position: relative; margin-left: auto; margin-right: auto; margin-bottom: -7rem;}
+.main_shareholder:after{ min-height: 0;}
+/*ShareHolder*/
+.Advantagesinner h3{ padding: 0rem 0rem; margin: 0rem 0rem;}
+.trustedouter h3 {  font-size: 15px;}
+.copy_trading_sec .copy_trading_text_p { font-size:18px;}
+.keyFeather  h4{font-size: 18px;}
+.brokersright h3 {  font-size: 18px; }
+/* Career-Page */
+.career_about_block{ padding: 0rem 0rem 5rem;}
+.we_looking_sec{ padding: 5rem 0rem;}
+.gorw_with_sec{ padding: 5rem 0rem 2.5rem;}
+.global_presence_block{ display: block;}
+.career_global_clients{ width: calc(100% + 3rem); border: 0px; padding: 0px 0px; margin: 0px -1.5rem;}
+.career_global_clients:before,
+.global_presence_title_view > img{ display: none;}
+.global_presence_title_view{ min-width: 100%; width: 100%; text-align: left; margin-top: 0rem; margin-bottom: 20px;}
+.career_about_block{ display: block;}
+.career_about_left, .career_about_right{ max-width: 100%; flex: 0 0 100%;}
+.career_about_right{ margin-top: 5rem; margin-left: 0rem;}
+.we_looking_list > li{ max-width: calc(100% - 50px); flex: 0 0 calc(100% - 50px);}
+.employee_role_desc{ max-height: inherit;}
+.gorw_with_sec .trustedouter{ min-height: inherit; float: left; padding: 20px 20px; margin: 10px 0px;}
+.gorw_with_sec .trustedouter_data{ display: flex;}
+.gorw_with_sec .trustedouter_icon{ margin-right: 15px;}
+.gorw_with_sec .trustedouter_data_view{ text-align: left;}
+.gorw_with_sec .trustedouter h5{ margin-top: 0px;}
+.grow_with_list_first{ padding-top: 0px;}
+.grow_with_image{ margin-top: 3.5rem;}
+.career_form_sec{ padding-bottom: 0; margin-bottom: 0;}
+.career_form_sec:before,
+.career_form_sec:after{ display: none;}
+.career_form_block .login_signup_form_sec{ max-width: inherit; padding: 5rem 0rem 3rem;}
+.career_form_block .login_signup_form_heading{ margin-bottom: 70px;}
+.job_desc_type_list li:first-child{ padding-left: 0px;}
+/* Career-Page */
+.contract_specifications_left_desktop{ display: none;}
+.contract_spc_mobile_tab{ width: 100%; background-color: #ffffff; font-size: 1.2rem; font-weight: 500; color: #062652; display: inline-flex; align-items: center; border: 1px solid #C3CCE5;
+margin-top: 10px; padding: 1.4rem 1.07rem;}
+.contract_spc_mobile_tab:hover img.normal,
+.contract_spc_mobile_tab.selected img.normal,
+.contract_spc_mobile_tab[aria-expanded="true"] img.normal{ display: none;}
+.contract_spc_mobile_tab[aria-expanded="false"] img.normal,
+.contract_spc_mobile_tab[aria-expanded="true"] img.hover{ display: block; margin-right: 1rem;}
+.contract_spc_mobile_tab[aria-expanded="false"] img.hover{ display: none;}
+.contract_spc_mobile_tab[aria-expanded="true"]{ background: linear-gradient(85.21deg, #0D67F9 0.61%, #4DCBF3 104.97%); color: #ffffff; display: inline-flex;}
+.contract_spc_mobile_tab i{transition: all 0.5s ease-out;}
+.contract_spc_mobile_tab[aria-expanded="true"] i{ transform: rotate(90deg);}
+.contract_spc_mobile_subtab{ background: #E3F5FF; font-size: 1rem; color: #062652; position: relative; padding: 1.2rem 1.2rem; width: 100%; display: inline-flex; font-weight: 500;}
+.contract_spc_mobile_subtab[aria-expanded="true"]{ background: #28a6f0; color: #ffffff;}
+.mt-10p{ margin-top: 10px;}
+.mb-10p{ margin-bottom: 10px;}
+
+.footer_awards_wrapper { width: 100%;}
+}
+
+@media(max-width: 767.98px){
+.banner_bonus_slide_img img{ height: auto; width: 100%; margin-left: 0;}
+.awards_view{ width: calc(100% + 20px); justify-content: center; padding-left: 0px; padding-top: 20px; padding-bottom: 20px;}
+.trustedouter h3 { margin: 0rem 0rem 0.85rem;}
+span.feathercontent h3 { font-size: 1.2rem;}
+.risk_disclosure_list_sec ol p { font-size: 1rem;}
+span.feathercontent h5 {  font-size: 1.2rem; }
+/* Career-Page */
+.career_banner_sec .banner_data{ min-height: inherit; margin-bottom: 3.5rem;}
+.career_about_sec{ padding-top: 5rem;}
+.global_presence_block{ transform: translate(0%, 0rem); padding: 20px 20px; margin-bottom: 3.5rem;}
+.career_global_clients li{ min-width: inherit;}
+.gorw_with_sec .trustedouter_data_view{ padding-top: 0px;}
+/* Career-Page */
+.swap_charges_text{ padding: 2rem 0.5rem;}
+.footer_links_block{ padding-bottom: 0rem;}
+.footer_menu li{ flex: 0 0 100%; border-top: 1px solid #123BA0; padding-left: 0px; padding-right: 0px;}
+.footer_menu li a{ color: #ffffff; margin: 0.75rem 0rem;}
+.footer_menu_mview_heading{ font-size: 1.28rem; font-weight: 300; padding: 15px 0rem;}
+.footer_menu_mview_heading i{ visibility: visible; opacity: 1;}
+.footer_menu_mview_heading.arrow_rotate i{ transform: rotate(90deg);}
+.footer_menu_links{ display: none;}
+.footer_menu_links.show{ display: block;}
+}
+
+@media(max-width: 575.98px){
+.navigation .language_dropdown_mobile_view .mview_language_dropdown .nav_dropdown{ min-width: 16rem;}
+/* ShareHolder */
+.shareholder_white-content-block{ padding: 20px;}
+.top_content{ padding: 0rem 2rem;}
+/*.block_content span:before, 
+.block_content span:after{ display: none;}*/
+.block_content span:before{ left: -2.5rem;}
+.block_content span:after{ right: -2.5rem;}
+.main_shareholder .right_sec{ min-width: 100%; width: 100%; margin-bottom: -12rem;}
+/* ShareHolder */
+
+/* Career-Page */
+.career_global_clients li{ font-size: 1.8rem;}
+.career_global_clients li small{ font-size: 45%;}
+.career_about_sec{ padding-top: 3rem;}
+.global_presence_block{ margin-bottom: 2.5rem;}
+.we_looking_sec{ padding: 3rem 0rem;}
+.gorw_with_sec{ padding: 3rem 0rem 1.5rem;}
+.we_looking_list > li{ margin: 8px 25px;}
+.career_form_desc_title,
+.career_form_block .login_signup_form_heading{ font-size: 1.8rem;}
+.career_form_block .login_signup_form_sec{ padding: 3rem 0rem 2rem;}
+.career_form_block .login_signup_form_heading{ margin-bottom: 50px;}
+.job_desc_text_block, 
+.job_desc_type_list, 
+.job_desc_btn{ margin-top: 10px;}
+.input_effect ~ label{ white-space: nowrap; overflow: hidden; text-overflow: ellipsis;}
+/* Career-Page */
+}
+
+@media(max-width: 479.98px){
+.main_shareholder .right_sec{ margin-bottom: -7rem;}
+/* Career-Page */
+.career_banner_image img{ max-width: 100%;}
+.career_global_clients,
+.career_apply_now_block{ display: block;}
+.career_apply_now_block{ min-height: inherit; padding: 15px;}
+.career_global_clients li{ border-left: 0px; margin-top: 20px;}
+.career_about_icon img{ max-width: 100%;}
+.employee_role_block{ padding: 15px;}
+.employee_role_desc{ font-size: 13px; font-weight: 300;}
+.career_job_type{ margin-bottom: 15px;}
+.global_presence_title, .employee_role_title{ font-size: 1.5rem; margin-bottom: 5px;}
+/* Career-Page */
+.support_now_btn img{ width: 3rem;}
+}
+
+
+.trustbox_wrapper_main{display: flex; justify-content: start; align-items: start;}
+.trustbox_wrapper_main .tplogoimg{max-width: 8.57rem; margin: 3px 1.30rem;}
+.trustbox_wrapper{
+    background: linear-gradient(85.21deg,#0D67F9 .61%,#100f49 104.97%);
+    font-size: 1.28rem;
+    padding: 1rem 1.28rem;
+    max-width: 21rem;
+    min-width: 21rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    text-align: start;
+    box-shadow: 0px 0px 3px 2px #123ba0;
+}
+
+@media(max-width: 1199.98px){
+.trustbox_wrapper_main{flex-direction: column-reverse;}
+.trustbox_wrapper{max-width: 26rem; min-width: 26rem; margin-bottom: 2rem;}
+}
+
+@media(max-width: 991.98px){
+.trustbox_wrapper_main .tplogoimg {margin: 3px 2.3rem;}
+}
+
+@media(max-width: 575.98px){
+.trustbox_wrapper {max-width: 100%; min-width: 100%; margin: auto; margin-bottom: 3rem;}
+.trustbox_wrapper_main .tplogoimg {margin: 10px auto; margin-top: 0px; display: flex; max-width: 13.57rem; }
+}

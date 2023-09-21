@@ -1,0 +1,1088 @@
+@media(min-width: 1920px){
+.banner_slide_img{ text-align: right;}
+.banner_slide_img img{ width: auto;}
+.banner_data{ margin-top: 4rem;}
+.caption_pioint_sec li:nth-child(1){ padding-top: 4rem !important;}
+.caption_pioint_sec li:nth-child(2){ padding-top: 10rem !important;}
+.caption_pioint_sec li:nth-child(3){ padding-top: 3.7rem !important;}
+.caption_pioint_sec li:nth-child(4){ padding-top: 9.5rem !important;}
+.caption_pioint_sec li:nth-child(5){ padding-top: 7rem !important;}
+.caption_pioint_sec{ top: 32rem;}
+.range_trading_slider_block{ padding-left: 15rem;}
+.tablet_sec{max-width: 1440px;}
+.tablet_data_sec{ max-width: 1055px; height: 702px;}
+.contact_banner{ min-height: 48rem;}
+.banner_sec.InnerPage{ min-height: 62rem;}
+.why_choose_desc, .why_choose_icon_box{ width: 33.36rem;}
+.why_choose_middle{ width: 38rem;}
+.partner_text li.first{ left: 2.5rem; bottom: 7rem;}
+.partner_text li.second{ left: 11rem; top: 8.5rem;}
+.partner_text li.third{ right: 12.5rem; top: 8.5rem;}
+.partner_text li.four{ right: 2.8em; bottom: 6.5rem;}
+.banner_slider_rtl .banner_slide_img{ text-align: left;}
+section.contact_banner.fx-academy{ min-height: 28rem;}
+
+.banner_sec.forex_academy_sec{ min-height: 65rem;}
+
+.banner_sec.trading_platforms_banner_sec {min-height: 69rem;}
+}
+
+@media(min-width: 1600px){
+.landing_banner_sec{ min-height: 50rem;}
+.approach_sec{ min-height: 42.86rem;}
+.landing_banner_form { min-height: 48rem;}
+
+}
+
+@media(max-width: 1919.98px){
+.full_container { max-width: 100%;}
+.caption_pioint_sec{ top: 28rem;}
+.banner_sec lottie-player{ height: 112rem;}
+.banner_sec .range_trading_icon lottie-player{ height: inherit;}
+.why_choose_middle{ width: 38rem;}
+.tablet_data_headeing{ font-size: 2rem;}
+.tablet_data_sec{ top: 90px;}
+.tablet_tablink{ margin-top: 4rem;}
+.partner_text li.first{ bottom: 6.8rem;}
+.partner_text li.second{ left: 11rem; top: 8rem;}
+.partner_text li.third{ right: 12.5rem; top: 8.2rem;}
+.partner_text li.four{ right: 3.5rem; bottom: 6.2rem;}
+.range_trading_text{ min-height: 6rem}
+
+/*#sidebar{right: 5rem;}*/
+
+.logo img,
+.banner_slide_img img,
+.navigation .navbar-nav li a.language_drop_.dropdown-toggle img, 
+.navigation .navbar-nav li .nav_dropdown ul.language_drop_down_web img, 
+.mview_language_dropdown a img, 
+.navigation .language_dropdown_mobile_view .mview_language_dropdown .nav_dropdown .language_drop_down_web img,
+.why_choose_icon_box > img,
+.range_trading_icon img,
+.wht_btn > img,
+.overview_icon img,
+.why_choose_icon img,
+.deposits_withdrawals_image_block img,
+.support_now_btn img,
+.financial_logo_sec img,
+.footer_awards_view li img,
+.footer_logo img{ height: auto;}
+
+
+}
+
+@media(max-width: 1599.98px){
+html{ font-size: 13.5px;}
+/*.caption_pioint_sec{ left: 5rem;}*/
+.caption_pioint_sec{ top: 28rem;}
+.login_signup_sec .range_trading_title{ font-size: 1em;}
+.why_choose_block{ height: 40rem;}
+.tablet_data_sec{ top: 75px;}
+.partner_sec{ min-height: 52rem;}
+.partner_animate_sec{ width: 35rem;}
+.partner_animate_sec .wht_btn{ bottom: 1.8rem;}
+.partner_text li.first{ bottom: 5.7rem;}
+.partner_text li.second{ left: 9.5rem; top: 7rem;}
+.partner_text li.third{ right: 10.5rem; top: 7.2rem;}
+.partner_text li.four{ right: 3rem; bottom: 5.5rem;}
+span.feathercontent h4{ font-size: 1.14rem;}    
+.featuresflex{ align-items: center;}
+
+#content{ width: 75%;}
+.latestblogslider .slick-custom-arrow-right{left: auto; right: 89%;}
+/* #sidebar{ right: 1.85rem!important;} */
+
+/* Blog New CSS */
+.blog_tags{margin-left: 15px;}
+
+.blog_detail_title{ font-size: 2.5rem; text-align: center; margin: 0px auto;}
+.blog_detail_content_list_heading{  font-size: 22px;}
+.blog_detail_content{ font-size: 16px;}
+.blog_detail_content_list{ margin-bottom: 2.5rem;}
+.banner_sec.forex_academy_sec{ min-height: 55rem;}
+.forex_most_popular{ margin-top: -10rem;}
+/* Blog New CSS END */
+
+.award_img img{ width: 30rem;}
+
+/* License Certificate */
+.license_certification_banner{ background-position: top center;}
+.license_certificate_icon img{ max-width: 22rem;}
+.license_certificate_list_sec li{ min-height: 26.5rem;}
+/* License Certificate */
+
+/* new Award Sec  */
+.landing_awards_sec.landing_awards_secwrapp{padding: 5rem 0rem 0rem;}
+.newaward_imglistitsm{margin-top: 2rem;}
+}
+
+@media(max-width: 1439.98px){
+html{ font-size: 13px;}
+.banner_sec{ min-height: 40rem;}
+.banner_sec lottie-player{ height: 108rem;}
+.banner_sec .range_trading_icon lottie-player{ height: inherit;}
+.caption_pioint_sec{ width: 63rem; top: 30rem; left: 0;}
+.tablet_data_sec{ width: 982px; height: 655px; top: 68px;}
+.partner_sec{ min-height: 52rem; background-size: cover;}
+.login_signup_sec .range_trading_title{ font-size: 0.95em;}
+.why_choose_block{ height: 35rem;}
+.bid_ask_title,
+.bid_ask_value{ margin-right: 1rem;}
+.support_now_title{ font-size: 2.35rem;}
+.support_now_btn img{ width: 5rem;}
+.enjoy_seamless_trading_sec{ padding-top: 0px !important}
+.copy_trading_sec h5 span.d-block{ display: inline-block !important;}
+.trustedouter h5{ font-size: 1.14rem;}
+/* Blog New CSS */
+.blog_sidenav_categories #sidebar, .blog_tags{right: 0px;}
+.blog_tags{margin-left: 0px;}
+/* Blog New CSS END */
+
+/* Pamm Page  */
+.become_pamm .box_sec:first-child, .become_pamm .box_sec:last-child {padding: 0 4rem; padding-bottom: 2rem;}
+.pamm-img{text-align: center;}
+.what_pamm_sec {margin-top: -2rem;}
+.what_pamm_sec .pamm-img img{ max-width: 80%; margin-bottom: 0; }
+}
+
+/* Company News  */
+@media(max-width: 1366px){
+    .news-top .tab-right .tab-content {scroll-behavior: auto; height: 28.57rem;}
+    .recent-added .i-box img {max-width: 8.4rem; max-height: 8.4rem;}
+    .news-nav-topbar .forex_most_popular_blog .range_trading_icon{height: 20.1rem;}
+}
+
+@media(max-width: 1365.98px){
+html{ font-size: 13px;}
+.navbar-expand-md .navbar-collapse{ display: none !important;}
+.navbar-expand-md .navbar-toggler,
+.navbar-expand-md .navbar-collapse.show{ display: block !important;}
+.language_dropdown_mobile_view{ display: inline-flex;}
+.heading_menutitle{ font-size: 1.3rem; font-weight: 400; color: #9AA2B9; border-top: 1px solid #E4E8F4; border-bottom: 1px solid #E4E8F4; padding: 1rem 1.07rem;}
+.banner_sec .banner_graphics{ top: 27%;}
+.banner_sec{ min-height: 37rem;}
+.sidebar-menu li.login_toplink{ padding: 0px 5px;}
+.sidebar-menu li.login_toplink a{ width: calc(50% - 20px); margin: 15px 10px;}
+
+.header_title,
+.InnerPage .header_title{ font-size: 3rem;}
+.caption_pioint_sec{ width: 57rem;}
+.header_subtitle{ font-size: 1.5rem; line-height: normal;}
+.bid_ask_title{ margin-left: 0rem !important;}
+.bid_ask_value{ font-size: 2rem; margin-right: 0rem;}
+.overview_icon_block{ min-width: 8.5rem;}
+.overview_data li,
+.overview_icon_name{ font-size: 1rem; font-weight: 300;}
+.tablet_sec{ min-height: 55rem;}
+.tablet_data_sec{ width: 860px; height: 575px; top: 75px;}
+.tablet_tablink{ margin-top: 2rem;}
+.why_choose_middle{ width: 25rem;}
+.banner_sec.InnerPage{ min-height: 45rem;}
+span.feathericon{ min-width: 100px;}
+span.feathercontent h4{ margin-bottom: 8px;}
+span.stepimg{ min-width: 70px; margin-right: 15px;}
+.whatForexTrading, 
+.Frequentlyask{ padding: 70px 0px;}
+.benefits_trading_slider span.feathericon{ min-width: 5rem;}
+.client_info_bg{ min-height: 43rem;}
+span.feathercontent{ padding-left: 10px;}
+.PresenceInnerbox h4{ font-size: 3rem;}
+.range_trading_title{ font-size: 1.28rem;}
+.trustedouter_icon img{ max-width: 5rem;}
+
+.latestblogslider .slick-custom-arrow-right {left: auto; right: 87%;}
+/* Blog New CSS */
+.sliderbox_heading{max-width: 75%; font-size: 1.14rem;}
+/* Blog New CSS END */
+
+/* License Certificate */
+.license_certification_banner{ padding: 5rem 0rem;}
+.license_certificate_icon img{ max-width: 18rem;}
+.license_certificate_list_sec li{ padding: 20px 4rem;}
+.license_certificate_arrow{ left: 4rem;}
+.license_certificate_arrow{ width: 50px;}
+.license_certificate_list_data{ padding-left: 7rem;}
+.license_certificate_list_data .risk_disclosure_list_heading{ font-size: 2rem !important;}
+.license_certificate_list_data p{ font-size: 1.14rem;}
+/* License Certificate */
+
+}
+
+@media(min-width: 1200px){
+.container{ max-width: 1500px;}
+}
+
+@media(max-width: 1199.98px){
+html{ font-size: 12px;}
+.logo img{ width: 13.5rem;}
+.navigation .navbar-nav li a, 
+.navigation .navbar-nav li button.dropdown-toggle{ padding: 0.5rem 0.4rem;}
+.navigation .navbar-nav li.login_toplink a{ min-width: 8rem;}
+.navigation .navbar-nav li.login_toplink .btn_login{ min-width: 6.5rem;}
+.banner_sec lottie-player{ height: 92rem;}
+.banner_sec .range_trading_icon lottie-player{ height: inherit;}
+.banner_sec .banner_graphics{ top: 23%;}
+.banner_data{ margin-top: 0rem;}
+.header_title{ font-size: 2rem;}
+.header_subtitle{ font-size: 1.28rem;}
+.caption_pioint_sec{ width: 50rem; top: 20rem; left: 0rem;}
+.why_choose_icon_data{ padding: .5rem 1.2rem;}
+.why_choose_middle{ width: 18rem;}
+.forex_news_sec{ background-position: center center; background-size: cover;}
+.daily_forex_news_sec{ padding-top: 2.5rem;}
+.overview_list{ display: block;}
+.overview_list > li{ width: calc(100% - 2.14rem); min-height: inherit;}
+.overview_data li{ flex: 1 0 0;}
+.tablet_sec{ min-height: 48rem;}
+.tablet_data_sec{ width: 680px; height: 452px; top: 65px; border-radius: 25px 25px 0px 0px;}
+.tablet_data_tabview{ padding: 2rem 3rem;}
+.tablet_data_pic{ min-height: inherit;}
+.tablet_tablink{ margin-top: 0rem;}
+.tablet_tablink li a span{ min-height: 3.5rem;}
+.partners_title{ font-size: 3.2rem;}
+.partners_subtitle{ min-height: 5.3rem; font-size: 1.5rem; font-weight: 300;}
+.partner_sec{ min-height: 48rem;}
+.partner_animate_sec .wht_btn{ bottom: 1.5rem;}
+.section_title{ font-size: 2.3rem;}
+.support_now_title{ font-size: 1.8rem;}
+.support_now_title small{ font-size: 50%;}
+.support_now_block{ padding: 1.35rem 1.5rem;}
+.support_now_btn{ font-size: 1.28rem; padding: 0.5rem 1.07rem;}
+.support_now_btn img{ width: 4.5rem;}
+.enjoy_seamless_trading_sec{ background-image: none !important;}
+.enjoy_seamless_trading_sec .range_trading_title{ font-size: 1.14rem;}
+.signup_left_sec{ padding: 2rem 2.5rem;}
+.signup_left_sec .section_title{ font-size: 1.5rem; line-height: normal;}
+.signup_left_sec .section_title small{ font-size: 65%;}
+.signup_sec .login_signup_btns .btn{ width: 100%;}
+.contact_form_icon{ min-width: 8.5rem; height: 8.5rem;}
+.contact_form_left_heading{ font-size: 2rem;}
+.contact_form_block{ padding: 1.5rem 2rem;}
+.contact_form_list_info .signup_info_list_desc_heading{ font-size: 1.5rem;}
+.contact_form_list_info li{ padding: 3rem 0rem;}
+.PresenceInnerbox h3{ font-size: 40px;}
+.PresenceInnerbox h3{ font-size: 15px;}
+.forextrandingtabs .list-group a img{ width: 20px; margin-right: 5px;}
+.forextrandingtabs .list-group a{ padding: 5px 0px;}
+.keyFeather h5, .brokersright h4{ font-size: 22px;}
+.featuresflex, .stepouter{ align-items: flex-start !important;}
+span.feathericon{ min-width: 90px;}
+span.feathercontent{ padding-left: 15px;}
+span.feathercontent h4{ margin-bottom: 5px;}
+span.stepimg{ min-width: 70px;}
+span.stepcontent{ width: calc(100% - 70px);}
+.Benefitslist li{ font-size: 16px;}
+.InnerPage .header_title{ font-size: 2rem;}
+.banner_sec.InnerPage{ min-height: 35rem !important;}
+.stepcontent p{ font-size: 12px;}
+.graphtradingout{ max-width: 100%;}
+.forextrandingtabs.is_stuck{ top: 70px !important;}
+.banner_sec.InnerPage.who_are_banner_sec{ min-height: 42rem !important;}
+.trustedouter_box_sec{ margin-top: 0rem;}
+.keeptuned .range_trading_icon{ height: 22rem;}
+.client_info_bg{ min-height: 40rem;}
+.accountstable .table-responsive{ overflow-x: auto !important;}
+.caption_pioint_sec .slick-slide img{ max-width: 4rem;}
+.why_choose_desc, 
+.why_choose_icon_box{ width: 28.5rem;}
+.why_choose_block{ height: 28rem;}
+.why_choose_icon{ width: 3.5rem;}
+
+/* MetaTrade Platform */
+.meta_trader_block{ padding: 0px 0px;}
+.meta_trader_left,
+.meta_trader_right{ padding: 0rem 20px;}
+
+.recentblog-carousel .slick-custom-arrow-right {left: auto; right: 87%;}
+.latestblogslider .slick-custom-arrow-right {left: auto; right: 70%;}
+.forextrandingtabblog .list-group a{font-size: 12px;}
+/* #sidebar {right: 4.85rem!important;} */
+/* Blog New CSS */
+.banner_sec.forex_academy_sec{min-height: 55rem !important;}
+
+.forex_academy_top.banner_sec {padding-top: 8rem;}
+.blog_content{max-width: 100%;}
+.latest_blog_title{font-size: 1.71rem; top: 40%; max-width: 100%;}
+.blog_detail_card{margin: 30px 8px;}
+.sliderbox_heading{max-width: 100%;}
+.blog_tags{display: none;}
+.forex_details{flex-direction: row-reverse;}
+.blog_sidenav{position: absolute!important; top: 0px!important; max-width: 100%; }
+.blogmobile_menu_toggle{display: none;}
+.blog_sidenav_categories #sidebar{right: -1070px; transition: all 0.5s ease-out;}
+#sidebar.active{right: -1000px;}
+/* Blog New CSS END */
+.subcategory_slider_sec { display: block; width: 100%; }
+.forex_banner_data_sec .banner_data .header_subtitle + p{max-width: 80%;}
+
+.award_details_sec{ width: 100%; margin: 20px auto 0px;}
+
+/* new Award Sec  */
+.newaward_detais_wrapper{max-width: 100%;}  
+}
+
+/* Company News  */
+@media (min-width: 992px) and (max-width: 1199.98px){
+    .news-nav-topbar {margin-top: -4rem;}
+    .news-top .nav-pills .nav-link {border-radius: 0; padding: 1.25rem 1.5rem;}
+    .recent-added h3 {font-size: 1rem;}
+    .news-box .blog_detail_image {height: 13rem !important;}
+    .news-top.tab-right .nav-pills .nav-link{min-width: 10rem;}
+    .news-nav-topbar .forex_most_popular_blog .range_trading_icon{height: 17.58rem;}
+    .news-top-banner{ height:27rem;}
+    .news-top .nav-pills .nav-link {min-width: 13rem;} 
+}
+
+@media(min-width: 992px) and (max-width: 1024px){
+    .latest_blog_title_recent {-webkit-line-clamp: 2;}
+    .news-top-banner {  height: 27.35rem;}
+    .news-top .nav-pills .nav-link {min-width: 15.5rem;} 
+}
+
+/* Company News  */
+
+@media(max-width: 991.98px){
+.navigation .navbar-nav{ -webkit-box-orient: horizontal; -webkit-box-direction: normal; -ms-flex-direction: row; flex-direction: row; display: block; margin: 1rem 0rem 0rem;}
+.navbar-expand-md .navbar-collapse{ -ms-flex-preferred-size: 100%; flex-basis: 100%;}
+.navigation .navbar-nav li{ background-color: #fafafa; border-top: 1px solid rgba(0,0,0,0.05); margin: 0rem 0rem;}
+.navigation .navbar-nav li a, 
+.navigation .navbar-nav li button.dropdown-toggle{ width: 100%; display: block; text-align: left; padding: .65rem 0.85rem;}
+.navigation .navbar-nav li:hover a, 
+.navigation .navbar-nav li:hover button.dropdown-toggle{ background-color: #537bb2; color: #ffffff;}
+.navigation .navbar-nav li.login_toplink{ padding: 0.5rem 0.85rem;}
+.navigation .navbar-nav li.login_toplink a{ width: auto; min-width: 10.5rem; display: inline-flex;}
+.caption_pioint_sec{ width: 35rem; top: 20rem; left: 2rem;}
+.caption_pioint_sec li{ font-size: 0.85rem;}
+.banner_sec lottie-player{ height: 76rem;}
+.banner_sec .banner_graphics{ top: 28%;}
+.banner_sec .range_trading_icon lottie-player{ height: inherit;}
+.header_title br{ display: none;}
+.support_now_title{ font-size: 1.5rem;}
+.support_now_title small{ font-size: 60%;}
+.support_now_btn img{ width: 3.5rem;}
+.signup_col_reverse{ flex-direction: column-reverse;}
+.signup_left_sec{ margin-bottom: 2rem;}
+/* .login_signup_form_fields{ border: 1px solid rgba(0,0,0,0.05);} */
+footer::before{ height: 4rem;}
+.forexheadingleft img{ width: 60px;}
+.keeptuned .list-group a{ height: 60px; font-size: 1.2rem;}
+.keeptuned .range_trading_text{ font-size: 14px; font-weight: 300;}
+section.enhanceTrading{ margin-top: -70px;}
+.forexheadingleft{ margin-bottom: 20px;}
+.trustedouter h5{ font-size: 15px;}
+.trustedouter img{ max-width: 5.5rem;}
+.Advantagesinner{ width: 100%; display: flex; border: 1px solid rgba(0,0,0,0.03); padding: 15px; min-height: inherit!important;}
+.Advantagesinner.active{ box-shadow: 0rem 0rem 0rem transparent;}
+.advantagesinner_data_sec{ text-align: left; padding-left: 15px;}
+.Advantagesinner h5{ padding: 0rem 0rem; margin: 0rem 0rem;}
+.advantagesinner_icon{ display: inline-block;}
+.Advantagesinner p{ margin: 0rem 0rem;}
+.Advantagesinner img{ max-width: 50px;}
+.forextrandingtabs .container{ max-width: 100%; padding: 0px;}
+.forextrandingtabs .list-group a{ font-size: 10px; height: 55px;}
+.InnerPage .home_banner_data_sec{ padding: 90px 0px;}
+.banner_sec.InnerPage{ min-height: 55rem;}
+.bannerrightimg{ text-align: center;}
+.bannerrightimg img.img-fluid{ width: 80%;}
+.copy_trading_sec h5{ font-size: 18px;}
+.keyFeather h5, .brokersright h4{ font-size: 18px;}
+.range_trading_icon img{ width: 5rem !important;}
+.latestblog_first .range_trading_icon img{ width: 100% !important;}
+.range_trading_title{ font-size: 1.4rem;}
+.boxbody{ width: 100%; border-bottom: 0px !important; border-right: 0px !important; padding: 6px 0px;}
+span.feathericon{ min-width: 70px;}
+.why_choose_box{ position: static; margin-bottom: 1.07rem;}
+.why_choose_desc{ opacity: 1; padding: 1.5rem 2rem;}
+.why_choose_desc, 
+.why_choose_icon_box{ width: 38rem; margin: 0rem auto;}
+.why_choose_middle,
+.why_spiner_dot,
+.tablet_tab_logo{ display: none;}
+.why_choose_block{ height: auto;}
+.enjoy_seamless_trading_block{ background-repeat: no-repeat; background-size: 100%;}
+.tablet_data_tablink_sec{ min-width: 10rem;}
+.tablet_tablink{ text-align: center; margin: 15px 0px;}
+.tablet_data_headeing{ font-size: 1.28rem;}
+.tablet_tablink li.last{ padding-bottom: 0rem;}
+.tablet_tablink li a > div,
+.tablet_data_subheading{ display: none;}
+.tablet_tablink li a{ display: inline-flex;}
+.tablet_data_sec{ width: 508px; height: 339px; top: 121px; border-radius: 20px 20px 0px 0px;}
+.wht_btn > img{ max-width: 5.5rem;}
+.accountstable{ padding-top: 50px;}
+.accounts_mobile_table{ display: block;}
+.accounts_table{ display: none;}
+.accounts_mobile_table li{ margin-bottom: 10px;}
+.accounts_mobile_table li button{ width: 100%; display: block; background: #EDF8FF; background: -webkit-linear-gradient(to bottom, #EDF8FF 0%, #daf2ff 100%); background: -moz-linear-gradient(to bottom, #EDF8FF 0%, #daf2ff 100%); background: linear-gradient(to bottom, #EDF8FF 0%, #daf2ff 100%); box-shadow: 1px 1px 0px #d0d8ec; border: 0px;}
+.accounts_mobile_table li button[aria-expanded="true"]{ background: #106CF9; background: -webkit-linear-gradient(to right, #106CF9 0%, #47c3f4 100%); background: -moz-linear-gradient(to right, #106CF9 0%, #47c3f4 100%); background: linear-gradient(to right, #106CF9 0%, #47c3f4 100%);}
+.accounts_mobile_table li button[aria-expanded="true"] .standered h5,
+.accounts_mobile_table li button[aria-expanded="true"] .standered span.d-block{ color: #ffffff;}
+.accounts_mobile_table li button[aria-expanded="true"] .fas.fa-angle-right{ transform: rotate(90deg); color: #ffffff;}
+.standered{ min-width: 100%; display: flex; align-items: center; text-align: left;}
+.standered .read_more_btn_sec{ display: inline-flex; align-items: center; margin-left: auto;}
+.standered .read_more{ min-width: 15.8rem; margin: 0rem 0rem 0rem auto !important;}
+.accounts_mobile_table li ul{ background: #FFFFFF; box-shadow: 0px 4px 9px rgba(0, 74, 255, 0.3);}
+.accounts_mobile_table li ul .tablelistinnercheck{ width: 100%; color: #100F49; padding: 15px 15px;}
+.standered::after{ display: none;}
+.forextrandingtabs.is_stuck{ top: 72px !important;}
+.table_left_menu{ display: inline-flex; padding: 0.8rem 2.5rem; margin: 1.07rem 0rem;}
+.contract_specifications_block{ display: block; box-shadow: 0px 4px 10px transparent; border: 0px;}
+.contract_specifications_left{ width: 100%; border-right: 0px !important; /*display: none;*/}
+.contract_specifications_left.show{ display: block;}
+.contract_specifications_left li a{ font-size: 1.2rem; padding: 1.4rem 1.07rem;}
+.contract_specifications_left li a img{ width: 2rem;}
+.contract_specifications_table_sec th{ background-color: #F7F8FC;}
+.column_reverse{ flex-direction: column-reverse;}
+.copy_trade_form_sec .login_signup_form_sec{ padding: 20px;}
+.copy_trade_form_sec .login_signup_form_fields{ border: 0px;}
+.crms__cover{ padding-bottom: 450px;}
+.banner_slider .slick-list{ overflow: hidden;}
+.banner_slide_img img{ max-width: 100%;}
+.caption_pioint_sec .slick-slide img{ max-width: 3rem;}
+.banner_slide_img{ text-align: right;}
+
+.landing_banner_title{ font-size: 3rem;}
+.landing_banner_sec, 
+.approach_sec, 
+.overview_sec, 
+.trading_instruments_sec,
+.landing_banner_form{ min-height: auto;}
+.landing_page_sec .section_title br{ display: none;}
+.landing_xtend_view_box{ width: 100%; position: static;}
+.landing_xtend_view_box.first,
+.landing_xtend_view_box.second,
+.landing_xtend_view_box.third{ top: 0%; left: 0%; transform: translate(0%, 0%);}
+
+/* MetaTrade Platform */
+.metatrade_platform_sec,
+.deposits_withdrawals_sec{ padding: 5rem 0rem;}
+.meta_trader_block,
+.meta_trader_block .tab-content{ display: block;}
+.meta_trader_block .tab-content .fade:not(.show){ opacity: 1;}
+.meta_trader_left,
+.meta_trader_right{ padding: 0rem 0px;}
+.meta_trader_heading{ font-size: 1.57rem;}
+.meta_trader_right .meta_trader_heading{ background: linear-gradient(to right, #C1E7FC 0%, #ffffff 80%);}
+
+.home_metatrader_tablinks{ justify-content: center;}
+.home_metatrader_tablinks li a{ min-width: 10.5rem; min-height: 3.65rem; position: relative; background-color: #E4F7FF; color: #7C9CB0; font-size: 16px; font-weight: 500; display: flex; align-items: center; justify-content: center;}
+.home_metatrader_tablinks li a::after{ width: 0; height: 0; border: 6px solid transparent; border-top-color: #2c97f6; position: absolute; left: 50%; bottom: -12px; transform: translate(-50%, 0%); content: ''; opacity: 0; visibility: hidden;}
+.home_metatrader_tablinks li a.active{ background: linear-gradient(85.21deg, #0D67F9 0.61%, #4DCBF3 104.97%); border-color: #0D67F9;}
+.home_metatrader_tablinks li a.active::after{ opacity: 1; visibility: visible;}
+
+.table_content_view{ display: none; visibility: hidden; opacity: 0; transition: all 0.5s ease-in-out;}
+.table_content_view.show{ display: block; visibility: visible; opacity: 1; margin-top: -1px;}
+.table_click_view_link{ width: 100%; background-color: #ffffff; font-size: 1.2rem; font-weight: 500; color: #062652; align-items: center; border: 1px solid #C3CCE5; padding: 1.4rem 1.07rem; margin-top: 10px;}
+.table_click_view_link img{ margin-right: 15px;}
+.table_click_view_link.active img.normal,
+.table_click_view_link img.hover{ display: none;}
+.table_click_view_link.active{ background: linear-gradient(85.21deg, #0D67F9 0.61%, #4DCBF3 104.97%); color: #ffffff;}
+.table_click_view_link.active img.hover{ display: block;}
+.table_content_view table{ border: 1px solid #C3CCE5;}
+
+.forextrandingtabblog .list-group a {white-space: normal; font-size: 9px; }
+.forextrandingtabblog .list-group a img {width: 15px; margin-right: 4px; margin-left: 5px;}
+.recentblog-carousel .slick-custom-arrow-right {left: auto; right: 82%;}
+.latestblogslider .slick-custom-arrow-right {left: auto; right: 82%;}
+#content {width: 100%;}
+#sidebar {display:none;}
+.blogindex_content{max-width: 100%; flex: 0 0 100%;}
+.blog_page_sec .range_trading_block .range_trading_text, .blog_page_sec .range_trading_block .range_trading_title{min-height: 5.5rem;}
+/* Blog New CSS */
+#sidebar {display: block;}
+.popular_blog_shortdetails{margin-left: 0px;}
+.blog_sidenav_categories #sidebar{right: -800px;}
+#sidebar.active{right: -750px;}
+
+.blog_detail_title{ max-width: 100%;}
+/* .forex_most_popular {margin-top: -18rem;} */
+/* Blog New CSS END */
+
+/* Career Page update */
+.career_modal_view .modal-content{ padding: 15px;}
+.career_video_close{ width: 30px; height: 30px; display: flex; align-items: center; justify-content: center; border-radius: 50%; background-color: #ffffff; border: 2px solid #f00000; top: -5px; right: -5px;}
+.career_video_close img{ width: 12px;}
+/* Career Page update */
+
+.award_details_sec{ width: 100%; margin: 20px auto 0px; position: static;}
+.award_img,
+.award_img_mid{ text-align: center; position: static; transform: translate(0px, 0px);}
+.award_img_mid{ max-width: 38rem; margin: 0px auto;}
+.award_img{ margin-bottom: -100px;}
+
+/* Trading Platform  */
+.download_trading_platform_btn .btn{min-width: 100%;}
+.Frequentlyask .section_subtitle_p{max-width: 100%;}
+.download_platform .section_subtitle_p {max-width: 100%;}
+.trading_platform_secwrapper {padding: 3rem 0px !important;}
+.trading_platform_secwrapper img.metatrader_img {max-width: 75%; display: flex; margin: auto;}
+.metatrader5_rowwrap{flex-direction: column-reverse; }
+
+/* Pamm  */
+.padtop-6{padding-top: 7rem;}
+.padtop-10{padding-top: 5rem;}
+.form-revers-col{flex-direction: column-reverse;}
+.form-revers-col .crypto_form_sec_outer {margin-bottom: 2rem;}
+.what_pamm_sec .pamm-img img{ margin: 2rem 1rem; margin-bottom: 0; width: 50%; margin-bottom: 0;}
+.what_pamm_sec .pamm-img{ text-align: center;}
+.what_pamm_sec .pamm-manager {flex-direction: column-reverse;}
+.how_to_start .how_to_startlistitem {margin-bottom: 0rem;}
+.become_pamm{flex-direction: column; margin-left: 0; margin-right: 0;}
+.pamm_form{ margin: 0rem;}
+.become_pamm .box_sec:first-child, .become_pamm .box_sec:last-child{padding: 0 2rem; width: 100%; margin-bottom: 2rem; margin-left: 0; margin-right: 0; overflow: hidden;}
+.become_pamm .box_sec:last-child{margin-bottom: 0rem;}
+.box_sec ul li{background-position: 0px 0px; }
+.box_sec ul li:last-child{padding-bottom: 3rem;}
+.how_to_start .how_to_startlistitem li{display: flex; font-size: 1.28rem;}
+.how_to_start .how_to_startlistitem li span{font-size: 1.28rem;}
+.section_title_block .p-text {width: 100%!important;}
+.what_pamm_sec h3, .box_sec h2 {font-size: 1.75rem;}
+h2.what-title{font-size: 2rem;}
+
+/* new Award Sec  */
+.landing_awards_sec.landing_awards_secwrapp{padding: 5rem 0rem 3rem;}
+.new_awardimg_wrap {max-width: 20.64rem;margin-right: auto;}
+.newaward_detais_wrapper .section_title,
+.newaward_detais_wrapper .section_text {max-width: 100%; text-align:center !important;}
+.newaward_imglistitsm li {max-width: 33%; min-width: 33%; margin: initial; padding: 1rem;}
+.newaward_secbtn .btn {margin: 3rem auto !important; }
+
+/* Company News  */
+.order-mobile3{ order: 3; }
+    .news-top .tab-right .tab-content{ scroll-behavior: auto; height: 31.57rem;  margin-bottom: 2.5rem;}  
+    .recent-added .i-box img {max-width: 9.4rem; max-height: 9.4rem;} 
+    .recent-added h3 {font-size: 1.28rem;}
+    .news-top-banner {height: 20rem;}
+    .most_popular_blog.news-top{padding-left: 0; padding-right: 0;}
+    .blog_details_blocks_sec.news-box {margin-left: -8px; margin-right: -5px;}
+    .SandboxRoot.env-bp-660 .timeline-Tweet-text {font-size: 16px !important; line-height: 28px !important;}
+    .latest_blog_title_recent {-webkit-line-clamp: inherit;}
+    .news-nav-topbar .company-news .latest_blog_text_sec{margin-bottom:2rem;}
+    .news-top .row > .col-lg-12 {margin-top: 0;}
+}
+
+/* Company News  */
+@media(min-width: 768px) and (max-width: 991.98px){ 
+    #twitter-widget-0[style]{width:80% !important;}
+    .news-nav-topbar {margin-top: -4.5rem;}
+   /* .news-box .blog_detail_card .card-footer{display: block;}
+    .news-box .blog_detail_card .readmore {margin-top: 0.75rem;}*/
+    .news-top .nav-pills li:first-child {display: none;}
+     .news-top.tab-right .nav-pills li:first-child {display: inline-block;}
+    .news-top .nav-pills li{width: 20%;}
+    .news-top .nav-pills .nav-link {border-radius: 0; padding: 1.5rem 0.25rem;}
+    .news-box .blog_detail_card{max-width: calc(50% - 16px);}
+    .news-box .blog_detail_image {height: 14rem !important;    }
+    .news-top .nav-pills .nav-link{min-width: 10rem;  text-align: center;}
+    .banner_sec.InnerPage.news-details-bg{margin-top: 1.65rem; }
+    .news-top .nav-bg { margin: 0;}
+    .banner_sec.InnerPage.news-details-bg{margin-top: 0;}
+}
+/* Company News  */
+
+@media(max-width: 767.98px){
+.partners_title{ font-size: 2.5rem;}
+.partners_subtitle{ min-height: 4rem; font-size: 1.14rem;}
+.deposits_withdrawals_sec{ padding: 4.5rem 0rem;}
+.check_deposit_link{ display: none;}
+.support_now_block{ display: block; text-align: center;}
+.signup_info_list li{ padding-top: 15px; margin-top: 15px;}
+.support_now_text{ margin-bottom: 1.5rem;}
+.support_now_title{ font-size: 1.8rem;}
+.support_now_btn{ display: block;}
+.footer_logo,
+.footer_logo_heading,
+footer .continue_text,
+.footer_now_more_btn{ text-align: center;}
+.footer_btn{ margin-bottom: 2rem;}
+.footer_links_col{ min-width: 100%; margin: 0rem 0rem;}
+.footer_links_list > li{ border-top: 1px solid #123BA0;}
+.footer_links_list a{ display: flex; align-items: center;}
+.footer_links_list a[aria-expanded="true"],
+.footer_links_list a[aria-expanded="true"] i{ color: #ffffff; transition: all 0.5s ease-out;}
+.footer_links_list a[aria-expanded="true"] i{ transform: rotate(90deg);}
+.footer_links_list > li > a > i{ font-size: 1.5rem; display: flex; align-items: center; color: #6867AD;}
+.socail_link{ display: block; margin-top: 1.5rem;}
+.title_social{ margin-bottom: 1.07rem;}
+.socail_link a{ width: 3.5rem; height: 3.5rem; font-size: 1.43rem;}
+.footer_bottom_sec{ border-top: 1px solid #123BA0;}
+.support_now_btn img{ width: 4.5rem;}
+.signup_info_list li:first-child{ padding-top: 0rem; margin-top: 0rem;}
+.contact_form_list_info li{ padding: 2rem 0rem; margin: 0rem 0rem;}
+.contact_form_left_data{ padding-left: 20px; padding-right: 20px;}
+.forexheadingleft{ display: block; text-align: center;}
+.forexheadingleft img{ margin-right: 0rem; margin-bottom: 1.07rem;}
+.formouter{ display: block !important;}
+.formouter .form-control{ width: 100%; font-size: 15px; padding: 0.5rem 1.07rem; margin: 0px 0px 10px;}
+.keeptuned .range_trading_icon{ height: initial;}
+.keeptuned .list-group a{ font-size: 1rem;}
+.PresenceInnerbox h1{ margin-top: 30px;}
+.PresenceInnerbox span{ padding: 10px 20px 30px;}
+section.enhanceTrading{ margin-top: 0px; padding: 40px 0px 50px;}
+.caption_pioint_sec{ display: none;}
+.banner_sec .banner_graphics{ top: ;}
+.banner_slide_img{ text-align: center;}
+.InnerPage .home_banner_data_sec{ padding: 20px 0px 50px;}
+.banner_data{ /*min-height: 18rem;*/ text-align: center; padding-left: 0rem; /*margin-top: 10rem;*/}
+.header_btn{ width: 100%; padding: 0px 30px;}
+.header_btn > span{ width: 80%; display: block; margin: 0rem auto;}
+.header_btn .btn{ min-width: 100%;}
+.banner_sec lottie-player{ width: 100%; height: auto; position: absolute; bottom: 41.5rem;}
+.banner_sec .range_trading_icon lottie-player{ bottom: inherit;}
+.range_trading_slider_block{ padding-left: 0rem;}
+.owl-carousel.banner_slider .owl-dots{ width: 100%; position: static; text-align: center;}
+.owl-carousel.banner_slider .owl-dot{ margin: 0px 2px;}
+.forextrandingtabs{ width: 18rem; position: absolute; left: 0; transform: translateX(-100%); transition: all 0.5s ease-out; box-shadow: 0px 0px 11px transparent; border-bottom: 0px solid #78bfed; margin-bottom: 0rem;}
+.forextrandingtabs.show{ transform: translateX(0%); box-shadow: 0px 0px 11px #cfd2e1;}
+.forextrandingtabs .list-group{ display: block;}
+.forextrandingtabs .list-group a{ font-size: 13px; height: 55px; width: 100%; justify-content: flex-start; border-bottom: 1px solid rgba(0,0,0,0.05); padding: 5px 15px;}
+.forextrandingtabs .list-group a::before{ height: 10px; width: 15px; bottom: 0%; left: auto; right: -2px; transform: rotate(-90deg) translate(2px, 0px);
+top: 50%;}
+.forextrandingtabs .list-group a::after{ display: none;}
+.forextrandingtabs .list-group a:hover, 
+.forextrandingtabs .list-group a.active{ box-shadow: 0px 4px 23px transparent;}
+.forextrandingtabs .list-group a img{ margin-right: 10px;}
+.banner_sec.InnerPage{ min-height: 30rem !important; text-align: center; background-image: none !important; background-color: #ECFBFF;}
+.whatForexTrading, .Frequentlyask{ padding: 50px 0px;}
+.spreadsForexheading .overview_btns{ text-align: left !important; justify-content: flex-start !important; margin: 0px 0px 10px;}
+.Advantagesinner,
+.Advantagesinner.active{ display: block; box-shadow: 0px 10px 30px rgba(107, 200, 251, 0.3); padding: 20px;}
+.boxbody{ padding: 10px 0px;}
+.advantagesinner_icon{ height: auto;}
+.Advantagesinner img{ max-width: 70px;}
+.advantagesinner_data_sec{ text-align: center; padding-left: 0px; padding-top: 15px;}
+.section_title{ text-align: center !important; font-size: 2rem !important; line-height: inherit;}
+span.feathercontent h4{ font-size: 1.2rem;}
+.Benefitslist li{ font-size: 1.28rem;}
+.section_title small{ font-size: 60%;}
+.forexleftimg img.img-fluid{ max-width: 50%;}
+.forexleftimg{ text-align: center;}
+.partnerwith{ background-size: cover;}
+.support_now_block{ display: block; padding: 15px;}
+.support_now_btn{ font-size: 1.07rem;}
+.support_now_btn{ width: 100%;}
+.keyFeather > h5{ display: none;}
+.keyFeather_mobile_reverse{ flex-direction: column-reverse;}
+.keyFeather{ padding-bottom: 30px;}
+.risk_disclosure_list_heading{ font-size: 1.28rem !important;}
+.risk_disclosure_list_sec ol li{ font-size: 1rem;}
+.trustedouter_last{ margin-top: 0;}
+.trustedouter{ min-height: inherit; margin: 1.07rem 0rem 0rem;}
+.trustedouter:hover .trustedouter_data{ transform: translateY(0px);}
+.trustedouter p{ height: auto; visibility: visible; opacity: 1;}
+.trustedouter_data_view{ text-align: center; padding-top: 1.57rem; padding-left: 0rem;}
+.trustedouter h5{ margin: 0rem 0rem 0.85rem;}
+.deposit_withdrawal_tab_link li a{ font-size: 1.5rem; padding: 1.07rem 1.07rem;}
+.deposit_withdrawal_tab_link_icon{ min-width: 3.5rem; width: 3.5rem; height: 3.5rem;}
+.deposit_withdrawal_tab_link_icon img{ width: 2.5rem;}
+.deposit_withdrawal_table table td{ white-space: nowrap;}
+.column_reverse_767{ flex-direction: column-reverse;}
+.copy_trade_form_sec::after,
+.spreadsForex{ display: none;}
+.copy_trade_form_sec .login_signup_form_sec{ background: linear-gradient(26.24deg, rgba(210, 240, 255, 0.9) 3.37%, rgba(243, 249, 255, 0.9) 100%), #FFFFFF;}
+.sidebar-menu li.login_toplink{ background-color: #f7f7f7; border-top: 1px solid rgba(0,0,0,0.1);}
+.sidebar-menu li.login_toplink a{ padding: 0.8rem 1.2rem;}
+.sidebar-menu li.login_toplink .btn_login{ background: #ffffff; color: #0D68F9 !important; border: 1px solid #0D68F9;}
+.keyFeather .list-group a{ min-width: calc(80% - 30px); /*margin: 0px 15px 15px !important;*/}
+.keyFeather .list-group a:first-child{ margin-left: 0px !important;}
+.featuresflex{ margin-bottom: 15px; min-height:14rem; margin-left: 5px; align-items: stretch!important;}
+.footer_links_list a:hover{ margin-left: 0rem;}
+.footer_links_block.mobile_view{ display: flex !important;}
+.footer_links_block.web_view{ display: none !important;}
+.contact_banner{ background-image: url(../../img/contact_content_mobile_banner.jpg) !important; background-attachment: scroll;}
+.continue_text{ text-align: center;}
+.newslatter .formouter{ text-align: center;}
+.newslatter .btn{ width: 70%;}
+.banner_sec.InnerPage.who_are_banner_sec{ background-image: none !important; background-position: center center; background-color: #ECFBFF;}
+.accounts_comparison_banner_sec{ background-image: url(../../img/account_mobile_banner.html) !important;}
+.standered{ min-width: 100%; display: flex; align-items: center;}
+.standered .read_more_btn_sec{ display: inline-flex; align-items: center; margin-left: auto;}
+.standered .read_more{ min-width: 15.8rem; margin: 0rem 0rem 0rem auto !important;}
+.accounts_mobile_table li ul{ background: #FFFFFF; box-shadow: 0px 4px 9px rgba(0, 74, 255, 0.3);}
+.accounts_mobile_table li ul .tablelistinnercheck{ width: 100%; color: #100F49; padding: 15px 15px;}
+.standered::after{ display: none;}
+.how_use_copytrade_sec .keyFeather .list-group{ flex-direction: column; overflow: visible;}
+.login_signup_btns .btn{ min-width: 80%; margin: 0 auto;}
+.range_trading_slider .owl-nav,
+.benefits_trading_slider .owl-nav{ position: static; margin-left: 5px;}
+.benefitsVoxa Limited .range_trading_slider_block{ padding-left: 0rem;}
+.benefitsVoxa Limited .owl-nav{ margin-left: 15px;}
+.banner_slide_img img{ width: 100%;}
+.header_btn::before, 
+.header_btn::after, 
+.header_btn > span::before, 
+.header_btn > span::after,
+.contract_specifications_left li > ul li a::after{ display: none;}
+.contract_specifications_block{ box-shadow: 0rem 0rem 0rem transparent; border: 0px;}
+.contract_specifications_left > li{ border: 1px solid #C3CCE5; margin-bottom: 10px;}
+.contract_specifications_left > li:last-child{ margin-bottom: 0px;}
+.deposit_withdrawal_tab_link li{ margin: 4px 0px 4px; margin-bottom: 4px !important;}
+.deposit_withdrawal_tab_link li a{ justify-content: center; border-left: 0px !important;}
+.deposit_withdrawal_table{ border: 0px;}
+.table_deposit{ font-weight: 500; font-size: 1.14rem; color: #28A6F0;}
+.table_card{ margin-bottom: 0.5rem; min-width: 12rem;}
+.why_choose_desc, 
+.why_choose_icon_box{ width: 100%;}
+.forex_news_list > li{ display: block;}
+.forex_news_list > li > div,
+.forexnews_buy_sale_sec{ width: 100%;}
+.bid_ask_sec{ width: 100%; display: flex;}
+.bid_ask_sec li{ flex: 1; justify-content: center;}
+.overview_list > li{ width: calc(50% - 30px);}
+.overview_icon_block{ min-height: 12.5rem; padding: 0.5rem 1.07rem;}
+.overview_data,
+.overview_data li{ padding: 1.5rem 1.07rem;}
+.overview_list li .overview_list_box,
+.overview_data,
+.overview_btns,
+.copy_trading_sec{ display: block !important; text-align: center;}
+.overview_btns .btn{ margin: 0.5rem;}
+.enjoy_seamless_trading_block{ background-size: 100%; background-repeat: no-repeat; padding-top: 0rem !important;}
+.tablet_tablink{ padding: 0.5rem 0rem;}
+.tablet_tablink li{ padding-bottom: 2rem;}
+.tablet_tablink li.last{ padding-bottom: 0rem;}
+.tablet_tablink li a{ justify-content: center;}
+.tablet_tablink li a span{ min-width: 2.5rem; min-height: 2.8rem; font-size: 1rem; font-weight: 300; padding: 0.3rem;}
+.tablet_tablink li a span::after{ width: 1px; height: 1rem; bottom: -1.5rem;}
+.tablet_tablink li a span + div.pl-3,
+.tablet_data_subheading{ display: none;}
+.tablet_data_tablink_sec{ min-width: 6.5rem;}
+.tablet_data_headeing{ font-size: 1.07rem;}
+.tablet_sec{ width: 42.5rem; min-height: 35rem;}
+.tablet_data_sec{ width: 375px; height: 250px; top: 87px; border-radius: 15px 15px 0px 0px;}
+.tablet_data_tabview{ padding: 1.07rem 1.07rem;}
+.tablet_data_pic{ width: 95%; margin: 0rem auto;}
+.crms__cover{ padding-bottom: 350px;}
+.overview_data li, .overview_icon_name{ font-size: 1.14rem; font-weight: 400;}
+.partner_text li{ font-size: 1.14rem;}
+.partner_text li.first{ bottom: 6rem;}
+.partner_text li.third{ right: 10.8rem;}
+.partner_text li.four{ right: 3rem; bottom: 5.5rem;}
+.tablet_data_tabview .tab-pane.active{ animation: none;}
+.blog_banner_sec .section_title{ color: #062652;}
+
+.landing_banner_sec{ background-image: url(../../img/stocks-lp-banner-mob.jpg) !important; background-position: center top;}
+.landing_banner_title { font-size: 2.2rem; line-height: 1.5;}
+.landing_banner_form{ margin-top: 28rem;}
+.landing_banner_title small{ display: block; font-size: 65%; color: #4F6E94; font-weight: 300; line-height: 1.6; padding-top: 1.5rem !important;}
+
+.meta_trader_infolist li:hover{ width: 100%; transform: scale(1); left: 0rem;}
+
+/*.featuresflex, .stepouter{ align-items: stretch!important;}*/
+
+.forextrandingtabblog {display: none;}
+.blog_author_details {display: block;}
+.blog-sharing {margin-top: 1rem; margin-bottom: 1em;}
+.recentblog_details {display: block;}
+.blog_timedetails{font-size: 11px;}
+.blog_sections.blogfirst {margin-top: 3rem!important;}
+
+.table_head_mobile_revert{ display: none;}
+.table_head_mobile_backrevert{ display: revert;}
+.mobile_deposit_withdrawals_data{ display: none; opacity: 0; visibility: hidden;}
+.mobile_deposit_withdrawals_data.show{ display: block; opacity: 1; visibility: visible;}
+/* Blog New CSS */
+.blog_detail_card{max-width: calc(49% - 15px);}
+.blog_detail_card:last-child{display: none;}
+/*.banner_sec.forex_academy_sec{ min-height: 75rem !important;}*/
+.banner_sec.forex_academy_sec{ min-height: initail !important;}
+.banner_data.forex_category_page{ min-height: initial;}
+.blog_detail_title{ font-size: 22px;}
+.blog_sidenav_categories #sidebar{right: -800px;}
+#sidebar.active{right: -600px;}
+.blog_sidenav_categories.sticky{display: none;}
+/* .subcategory_slider_sec{display: block; width: 100%;} */
+.forex_category_page .header_subtitle{color: #fff; max-width: 100%;}
+.banner_sec.forex_catpage {background-image: url(img/img/forexacademycategory-desktop-bg.html) !important; background-color:#051C45!important;}
+.banner_sec.blog_detail_banner{min-height: 42rem !important;}
+/* .subcategory_slider_sec{ width: calc(100% - 30px); margin-left: 15px; margin-right: 15px;} */
+/* .subcategory_slider_sec{ display: none !important;} */
+.forex_most_popular{ margin-top: -10rem;}
+.blog_detail_banner .blog_detail_title, .blog_category_banner .forex_category_page{text-align: center;}
+.forex_banner_data_sec .banner_data{ min-height: auto; margin-bottom: 20px;}
+.forex_banner_data_sec .banner_data .header_subtitle + p{max-width: 100%; -webkit-line-clamp: inherit;}
+/* Blog New CSS END */
+
+.landing_awards_sec{ padding: 5rem 0rem 3rem;}
+
+/* License Certificate */
+.license_certification_banner{ padding: 0rem 0rem 5rem;}
+.license_certification_banner{ background-image: none !important; background-color: #ECFBFF;}
+.license_certificate_list_sec li{ background-color: #ffffff;}
+.license_certificate_list_sec li{ padding: 20px 30px; margin-top: 30px;}
+.license_certificate_arrow{ left: 30px;}
+.license_certificate_list_data{ padding-left: 6rem;}
+.license_certificate_list_data .risk_disclosure_list_heading{ font-size: 20px !important; margin-bottom: 10px;}
+.license_certificate_list_data p{ font-size: 14px;}
+.license_certificate_list_data .btn{ min-width: 16rem; margin-top: 15px;}
+/* License Certificate */
+
+.promotion_tnc_file_block{ text-align: center;}
+.haftsin_home_banner_img{ height: auto !important;}
+
+/* Company News  */
+.news-nav-topbar {margin-top: 1.5rem;}
+.news-top .mobile-hide{display: none;}
+.news-btn-slider{display: block;}
+.blog_details_blocks_sec.news-box {margin-left: 0; margin-right: 0;}
+.news-box .blog_detail_card .blog_shortdetails_card, .news-box .blog_detail_card .card-footer {padding-left:12px; padding-right:12px;}
+.news-box .blog_detail_card:last-child {display: block;}
+.news_body_text h2{font-size: 2rem;}  
+.news-nav-topbar .company-news .range_trading_icon::before {background: linear-gradient(360deg, rgba(6, 38, 82, 0.7) 0%, rgba(6, 38, 82, 0.63) 31.25%, rgba(6, 38, 82, .5) 100%);}  
+.news-nav-topbar {margin-top: 0rem;}  
+.news-top .nav-pills li:first-child {display: none;}
+.news-top.tab-right .nav-pills li:first-child {display: inline-block;}     
+.news-top .nav-pills li{width: 33.3%;}
+.news-top .nav-pills .nav-link {border-radius: 0; padding: 1rem 0.75rem;}
+.news-box .blog_detail_card .card-footer{text-align: left;}
+.news-nav-topbar .blog_detail_card {max-width: calc(100% - 0px);}
+.news-box .blog_detail_image .social-sec .socail_link {display: inline-flex; margin-top: 0;}
+.news-box .blog_detail_image .social-sec {opacity: 1; }
+.news-nav-topbar .company-news p {min-height: 3.4rem; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 5; overflow: hidden;}
+.news-nav-topbar .company-news h3.latest_blog_title{-webkit-line-clamp: 4;}
+.social-sec1 .socail_link{display: flex; flex-direction: column; margin-top: 0;}
+.banner_sec.InnerPage.news-details-bg {min-height: 24rem !important; background-image: url(../../../cxdev.voxalimited.com/uploads/companynews-detail.jpg) !important;}
+.banner_sec{padding-bottom: 0;}
+.news_body_text {margin: 4.5rem 0;}
+.news-back-btn {width: 48px; height: 38px;    }
+.news-nav-topbar .forex_most_popular_blog .range_trading_icon {height: 20rem;}
+
+/* PAMM  */
+.landing_awards_sec {padding: 5rem 0rem 5rem;}
+.what_pamm_sec{margin-top: 4rem;}      
+.pamm_title {font-size: 2rem;} 
+.what_pamm_sec .pamm-img img{ width: 70%; }  
+.what_are_sec .w-75{width: 100%!important;}
+.section_title_block .p-text{width: 100%!important;}
+.how_to_start {padding: 5rem 0;}
+.how_to_start .how_to_startlistitem li {padding: 0.95rem 1.75rem;}
+.header_subtitle {margin: auto;}
+}
+
+@media(max-width: 575.98px){
+.navigation .navbar-nav{ -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column;}
+.navigation .navbar-nav li{ padding: .2rem 0rem;}
+.header_btn > span{ width: 100%;}
+.banner_sec{ min-height: auto; padding: 7.5rem 0rem 2.5rem;}
+.partner_sec{ min-height: 42rem;}
+.partners_title{ font-size: 2rem;}
+.partner_animate_sec{ width: 30rem;}
+.tablet_sec{ width: 37.5rem;}
+.tablet_data_sec{ width: 330px; height: 220px; top: 102px;}
+.tablet_data_tablink_sec{ min-width: 5.5rem;}
+.tablet_tablink{ padding: 1.45rem 0rem;}
+.tablet_tablink li{ padding-bottom: 1rem;}
+.tablet_tablink li a span{ min-width: 2.2rem; min-height: 2.5rem; border: 1px solid #ffffff;}
+.tablet_tablink li a span::after{ display: none;}
+.partner_text li.first{ bottom: 5rem;}
+.partner_text li.second{ left: 7.5rem;}
+.partner_text li.third{ right: 9.3rem;}
+.partner_text li.four{ right: 2.5rem; bottom: 4.5rem;}
+.tablet_data_pic{ width: 90%;}
+.login_signup_sec .range_trading_slider_block{ padding-left: 0rem;}
+.login_signup_sec .owl-nav{ position: static; margin: 0px 15px;}
+.login_signup_btns{ display: block; text-align: center;}
+.login_signup_form_title{ font-size: 1.43rem; color: #062652;}
+.signup_left_sec{ margin-bottom: 15px;}
+.login_signup_form_fields{ padding: 30px 20px;}
+.contact_form_icon::before,
+.contact_form_icon::after{ display: none;}
+.contact_form_icon{ min-width: 6.5rem; height: 6.5rem; margin-top: 0rem;}
+.contact_form_icon img{ max-width: 3.5rem;}
+.range_trading_block .featuresflex.d-flex{ display: block !important;}
+.range_trading_block span.feathercontent{ padding: 0px; text-align: center;}
+.trustedouter.last{ top: inherit;}
+.banner_sec.InnerPage::before{ display: none;}
+.forextrandingtabs .list-group a img{ width: 25px;}
+.InnerPage .home_banner_data_sec{ padding-bottom: 0rem;}
+.banner_sec.InnerPage{ min-height: 44rem;}
+.spreadsForex_block{ display: block;}
+.keyFeather .list-group a{ min-width: 100%; margin: 0px 5px 15px !important;}
+.banner_sec.InnerPage.who_are_banner_sec{ min-height: 35rem !important;}
+.range_trading_slider_block{ padding-left: 0rem; margin-top: 0rem;}
+.benefits_trading_slider .featuresflex.d-flex{ display: flex !important;}
+.benefits_trading_slider span.feathercontent{ text-align: left; padding-left: 15px;}
+.benefits_trading_slider .owl-nav{ position: static; margin: 0px 15px;}
+.contact_form_left_sec,
+.signup_info_list li{ display: block; text-align: center;}
+.contact_form_icon { width: 6.5rem; margin: 0rem auto 1.5rem;}
+.signup_info_list_desc{ padding-left: 0rem; padding-top: 1.43rem;}
+.how_use_copytrade_list{ padding: 1.07rem;}
+.how_use_copytrade_list_step span{ width: 4rem; height: 4rem;}
+.how_use_copytrade_list_text{ font-size: 1rem;}
+.how_use_copytrade_list_text small{ font-size: 95%;}
+.forexleftimg img.img-fluid{ max-width: 100%;}
+.crms__cover{ padding-bottom: 270px;}
+.blog_page_sec .range_trading_block .range_trading_icon{ height: auto;}
+
+.landing_banner_form{ margin-top: 20rem;}
+
+/* MetaTrade Platform */
+.meta_trader_infolist_block{ padding: 13px;}
+.meta_trader_infolist_data{ padding-left: 8px;}
+
+.featuresflex{align-items: center!important; min-height: fit-content; }
+span.feathericon {min-width: 100px; max-width: 100px;}
+
+.blog_category_heading_text {font-size: 1.43rem;}
+.view_blog_category{font-size: 1.28rem;}
+.blog_page_sec .range_trading_block .range_trading_icon img{min-height: 10rem;}
+.latestfist_blog_details{ display: block;}
+.blog-author{margin-bottom: 1rem;}
+.author_name{font-size: 14px;}
+.blog_addtime{font-size: 13px;}
+.blogtime-zone { margin-left: 0px; font-size: 10px;}
+.latestfist_blogbtn{width: 100%;}
+.blog_timedetails{font-size: 12px;}
+/* Blog New CSS */
+/* .banner_sec.forex2{ min-height: 42rem !important;} */
+.blog_detail_title{ font-size: 20px;}
+.forex_most_popular {margin-top: -7rem; }
+.blog_details_blocks_sec{margin-left: 0px; margin-right: 0px;}
+.blog_detail_card{max-width: 100%;}
+.blog_detail_image img{min-width: 100%;}
+.forex_details_category, .blog_slider_box{margin-bottom: 2.85rem;}
+.latest_blog_title{top:55%; font-size: 1.71rem;}
+.latest_blog_shortdetails{font-size: 14px;}
+.latestblog_first{padding: 0px;}
+.range_trading_icon{ /*height: 20rem;*/ margin-bottom: 0rem;}
+.range_trading_icon::before {height: calc(100% - 6rem);}
+.slider_box{max-height: 100%;}
+.popular_blog_details{-ms-flex-direction: column; flex-direction: column; min-width: 100%;}
+.popular_blog_details img{object-fit:cover; max-height: 12rem;}
+.popular_blog_shortdetails{padding-bottom: 20px; min-height: 100%; }
+.blog_sidenav_categories #sidebar{right: -570px; transition: all 0.5s ease-out;}
+#sidebar.active{right: -430px;}
+.shortdetails_title,
+.shortdetails_text{ min-height: initial;}
+.other_popular_blogs .popular_blog_details img{ width: 100%; height: 20rem;}
+.blog-timedetails .blog_addtime {line-height: 2;}
+.category_titles_block{padding: 0px 15px;}
+.blog_detail_content_view h1{font-size: 1.78rem;}
+.most_popular_blog {padding:15px 15px 0px}
+.blog_type_heading {padding:0px 0px 15px}
+.blog_detail_content_view p{text-align: inherit;}
+/* Blog New CSS END */
+
+.career_global_clients{ display: flex; flex-wrap: wrap;}
+.career_global_clients li{ width: 50%;}
+
+/* trading platform  */
+.metatrader_benefits_list li{font-size: 1.28rem;}
+.trading_platform_btnwrapper a.btn{min-width: 100%;}
+.trading_platform_secwrapper{padding: 15px !important; }
+.download_platform .range_trading_block{margin-top: 2rem !important;}
+.crypto_form_sec_outer{padding: 10px; margin-top:3rem; max-width: 100%;}
+.trading_platform_btnwrapp .btn {min-width: 100%;}
+.trading_platform_secwrapper img.metatrader_img {max-width: 100%;}
+
+/* Pamm  */
+.how_to_start {padding-top: 0rem; padding-bottom: 5rem;}
+.what_are_sec{padding: 5rem 0;}
+
+/* new Award Sec  */
+.newaward_imglistitsm li{max-width: 50%; min-width: 50%; margin: auto; display: flex; justify-content: center;}
+.newaward_imglistitsm li:last-child{margin: initial;}
+
+/* Company News  */
+.news-bg img{max-width: 26rem; padding-bottom: 2rem;}
+.news-top .nav-bg {margin: 0;} 
+.news-nav-topbar .forex_most_popular_blog .range_trading_icon {height: 14rem;}
+.news-nav-topbar .most_popular_blog{padding-top: 10px; padding-bottom: 30px;}  
+.recent-added h3 {font-size: 1.257rem;}
+.news-box .blog_detail_card{margin-bottom: 25px;}
+.news-top.tab-right .nav-pills li:first-child {display: inline-block;}
+ .news-nav-topbar .company-news p{font-size: 1.125rem; line-height: 170%;}
+.news-top .nav-bg {background: #fff !important;}
+.news-top .nav-pills li .nav-link.active {background: #0D67F9 !important; color: #fff;}
+.news-top .nav-pills li a.nav-link{border-right: none;}
+.news-top .nav-pills li .nav-link {min-height: 5rem; display: flex; align-items: center; justify-content: center; margin: 1px; background: #EFF4FA!important;}
+.news-top.tab-right .nav-pills li .nav-link.nav-link.active, .news-top.tab-right .nav-pills li .nav-link:hover {background: #EFF4FA!important; color: #0D67F9; border-bottom: solid 2px #0D67F9;}
+.news-box .blog_detail_image .social-sec .socail_link a {margin-bottom: 5px; margin-top: 5px; margin-right: 5px;}
+.news-nav-topbar .company-news .latestfist_blog_details{display: flex;}
+.news-nav-topbar .company-news .blog-author, .news-box .blog_detail_card .card-footer {margin-bottom: 0;}
+.news-nav-topbar .company-news .blog-author .blog_addtime {font-size: 0.92rem;}
+.recent-added .i-box img{max-width: 9.4rem; max-width: 9.4rem;}
+.recent-added .feed-block{display: flex !important; flex-direction: column !important; width: 100% !important; align-items:flex-start!important; padding: 0;}
+.news-nav-topbar .company-news h3.latest_blog_title, .company-news .latest_blog_text_sec h2{font-size: 2rem;}
+.news-nav-topbar .company-news .latestfist_blog_details .readmore{font-size: 0.92rem;}
+.recent-added h3 {-webkit-line-clamp: 3;}
+.news-top-banner {height: 13rem;}
+.news-top-banner h3 {font-size: 2.21rem; -webkit-line-clamp: 3; -webkit-box-orient: vertical; display: -webkit-box;}
+.blog_details_blocks_sec.news-box {margin-left: -8px; margin-right: -8px;}
+.banner_sec.InnerPage.news-details-bg{margin-top: 1.65rem; }
+}
+
+@media(max-width: 479.98px){
+.banner_sec lottie-player{ bottom: 55.5rem;}
+.banner_sec.range_trading_icon lottie-player{bottom: inherit;}
+.why_choose_icon_title{ font-size: 1.07rem;}
+.why_choose_icon img{ width: 3rem;}
+.why_choose_desc{ padding: 1.07rem;}
+.why_choose_sec .wht_btn{ margin-left: 25px !important; margin-right: 25px !important;}
+.wht_btn > img{ width: 3.5rem;}
+.daily_forex_news_slider .owl-nav{ position: static; margin-left: 15px;}
+.g-recaptcha iframe{ max-width: 100%;}
+.footer_logo img{ max-width: 20rem;}
+.newslatter .btn{ width: 100%;}
+.standered{ min-width: 100%; display: block;}
+.standered > div{ display: flex;}
+.standered span.d-block{ margin-left: auto;}
+.standered .read_more_btn_sec{ width: 100%; margin-top: 1.07rem;}
+.standered .read_more{ margin: 0rem 0rem 0rem 0rem !important;}
+.standered .read_more_btn_sec i{ margin: 0rem 0rem 0rem auto !important;}
+.tablet_sec{ width: 24.5rem; min-height: 25rem;}
+.tablet_data_sec{ width: 212px; height: 141px; top: 80px; border-radius: 7px 7px 0px 0px;}
+.tablet_data_tablink_sec{ min-width: 4rem;}
+.tablet_tablink{ padding: 0.5rem 0rem; margin: 0rem 0rem;}
+.tablet_tablink li a span::after{ display: none;}
+.tablet_tablink li{ padding-left: 0.5rem; padding-right: 0.5rem; padding-bottom: 0.65rem;}
+.tablet_tablink li a span{ min-width: 2rem; min-height: 1.5rem;} 
+.tablet_data_tabview{ padding: 0.65rem;}
+.tablet_data_headeing{ font-size: 0.85rem;}
+.tablet_data_pic{ width: 80%; padding: 0.5rem; border-radius: 0.5rem;}
+.support_now_btn{ text-align: left;}
+#flag{ display: none !important;}
+
+.landing_banner_form{ margin-top: 10rem;}
+
+/* MetaTrade Platform */
+.meta_trader_infolist_icon{ min-width: 4.5rem; max-width: 4.5rem;}
+
+.latestfist_blogbtn{ width: 100%;}
+/* Blog New CSS */
+/* .latest_blog_title {font-size: 1.28rem;} */
+.blog_sidenav_categories #sidebar{right: -470px; transition: all 0.5s ease-out;}
+#sidebar.active{right: -300px;}
+.banner_sec.blog_detail_banner{min-height: 42rem !important;}
+
+/* Blog New CSS END */
+.career_global_clients{ display: flex !important;}
+
+/* License Certificate */
+.license_certificate_list_sec li{ min-height: initial; box-shadow: 2px 2px 0px #FFFFFF, 3px 3px 0px rgba(0, 0, 0, 0.1); padding: 15px;}
+.license_certificate_arrow{ display: none;}
+.license_certificate_list_data{ padding-left: 0px;}
+.license_certificate_list_data .risk_disclosure_list_heading{ font-size: 18px !important;}
+.license_certificate_list_data .btn{ min-width: 100%;}
+/* License Certificate */
+.socail_link a {margin-bottom: 14px;}
+}
+
+/* Company News  */
+@media (max-width: 424.98px) {
+    .news-nav-topbar .company-news .blog_addtime {flex-direction: column; text-align: left; justify-self: start; align-items: flex-start; margin-left: 0;}
+    .recent-added h3 {font-size: 1rem;}
+    .news-top .nav-pills .nav-link{min-width: inherit;}
+    .news-btn-slider .btn-slider.slick-slide { max-width: 13.5rem;}
+}
+
+@media (max-width: 374.98px){
+    .socail_link a {margin-bottom: 14px;}
+    /* Company News  */
+    .news-box .blog_detail_card .card-footer .blog_addtime{font-size: 12px;}
+    .news-top .tab-right .tab-content{height: 25.5rem;}
+    .recent-added .i-box img{max-width: 7.4rem; max-height: 7.4rem;}
+    .news-box .blog_detail_image {height: 13rem !important;}
+    .news-nav-topbar .forex_most_popular_blog .range_trading_icon {height: 11rem;}  
+}

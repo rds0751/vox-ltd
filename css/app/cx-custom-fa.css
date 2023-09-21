@@ -1,0 +1,310 @@
+/* Anil */
+@font-face{
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: bold;
+    src: url('../fa-fonts/eot/iranyekanwebbold.eot');
+    src: url('../fa-fonts/eot/iranyekanwebboldd41d.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+         url('../fa-fonts/woff/iranyekanwebbold.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+         url('../fa-fonts/ttf/iranyekanwebbold.ttf') format('truetype');
+}
+@font-face{
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: 100;
+    src: url('../fa-fonts/eot/iranyekanwebthin.eot');
+    src: url('../fa-fonts/eot/iranyekanwebthind41d.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+         url('../fa-fonts/woff/iranyekanwebthin.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+         url('../fa-fonts/ttf/iranyekanwebthin.ttf') format('truetype');
+}
+@font-face{
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: 300;
+    src: url('../fa-fonts/eot/iranyekanweblight.eot');
+    src: url('../fa-fonts/eot/iranyekanweblightd41d.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+         url('../fa-fonts/woff/iranyekanweblight.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+         url('../fa-fonts/ttf/iranyekanweblight.ttf') format('truetype');
+}
+@font-face{
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fa-fonts/eot/iranyekanwebregular.eot');
+    src: url('../fa-fonts/eot/iranyekanwebregulard41d.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+         url('../fa-fonts/woff/iranyekanwebregular.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+         url('../fa-fonts/ttf/iranyekanwebregular.ttf') format('truetype');
+}
+@font-face{
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: 500;
+    src: url('../fa-fonts/eot/iranyekanwebmedium.eot');
+    src: url('../fa-fonts/eot/iranyekanwebmediumd41d.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+         url('../fa-fonts/woff/iranyekanwebmedium.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+         url('../fa-fonts/ttf/iranyekanwebmedium.ttf') format('truetype');
+}
+@font-face{
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: 800;
+    src: url('../fa-fonts/eot/iranyekanwebextrabold.eot');
+    src: url('../fa-fonts/eot/iranyekanwebextraboldd41d.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+         url('../fa-fonts/woff/iranyekanwebextrabold.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+         url('../fa-fonts/ttf/iranyekanwebextrabold.ttf') format('truetype');
+}
+@font-face{
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: 900;
+    src: url('../fa-fonts/eot/iranyekanwebblack.eot');
+    src: url('../fa-fonts/eot/iranyekanwebblackd41d.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+         url('../fa-fonts/woff/iranyekanwebblack.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+         url('../fa-fonts/ttf/iranyekanwebblack.ttf') format('truetype');
+}
+@font-face{
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: 950;
+    src: url('../fa-fonts/eot/iranyekanwebextrablack.eot');
+    src: url('../fa-fonts/eot/iranyekanwebextrablackd41d.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+         url('../fa-fonts/woff/iranyekanwebextrablack.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+         url('../fa-fonts/ttf/iranyekanwebextrablack.ttf') format('truetype');
+}
+body{ font-family: iranyekan !important; direction: rtl;}
+h1, h2, h3, h4, h5, h6, input, select, button, textarea{ font-family: iranyekan !important;}
+
+.banner_slider_rtl{ direction: ltr;}
+.banner_slider_rtl .banner_slider .slick-slide .row{ flex-direction: row-reverse;}
+.banner_slider_rtl .caption_pioint_sec{ left: auto; right: 15px;}
+.banner_slider_rtl .banner_data{ text-align: right;}
+
+
+h1{ font-weight: bold;} 
+ 
+
+.banner_slider_rtl .slick-slide {
+    float: right;
+}
+
+.range_trading_slider_rtl .range_trading_text {
+    font-size: 1.2rem;
+    line-height: 1.67rem;
+    color: #062652;
+    font-weight: 300;
+    padding: .65rem 18px;
+}
+
+.why_choose_desc { 
+    color: #062652;
+}
+
+.forextrandingtabs .list-group a { 
+    font-size: 17px; 
+}
+
+.forextrandingtabs .list-group a img {
+    width: 2.5rem;
+    margin-left: 1.07rem;
+    margin-right: inherit;
+}
+
+.forexheadingleft img {
+    min-width: 3.43rem;
+    margin-left: 1.43rem;
+    margin-right: inherit;
+}
+
+.askquestion .card-header button {
+    width: 100%;
+    border: 0px;
+    text-align: right;
+    padding: 1.5rem 1.2rem;
+    text-decoration: none;
+    /*background: transparent;*/
+    font-size: 1.44rem;
+    color: #151515;
+    padding-left: 3.57rem;
+}
+
+.askquestion .card-body {
+    color: #40404c;
+    background: #f3fbfe;
+    font-size: 1.2rem;
+    color: #403F4D;
+    line-height: 1.8;
+    padding: 15px 20px;
+    font-weight: 400;
+}
+
+.how_use_copytrade_list_text { 
+    padding-right: 1.2rem;
+    padding-left: inherit;
+}
+
+.Benefitslist li img { 
+    margin-left: 1.43rem; 
+    margin-right: inherit;
+}
+
+.copy_trade_form_sec::after { 
+    left: 0%;
+    right: inherit; 
+}
+
+.contact_form_left_data {
+    padding-right: 30px;
+    padding-left: inherit;
+}
+
+.signup_info_list_desc { 
+    padding-right: 1.43rem;
+    padding-left: inherit;
+}
+
+.contact_form_left_heading { 
+    padding-top: 1.5rem;
+}
+
+.table_deposit { 
+    min-width: 9rem;
+}
+
+.deposit_withdrawal_tab_link_icon { 
+    margin-left: 1.5rem;
+    margin-right: inherit;
+}
+
+.deposit_withdrawal_table table th { 
+    font-size: 1.3rem; 
+}
+
+.deposit_withdrawal_table table td {
+    font-size: 1.1rem; 
+} 
+
+.table_card_name {
+    color: #28A6F0;
+    font-weight: 500;
+    font-size: 1.3rem;
+}
+
+.pay_info_list li {
+    min-width: 100%;
+    flex: 1;
+    font-size: 1.2em;
+    color: #062652;
+    font-weight: 500;
+    padding: 0.5rem 01rem;
+} 
+
+.country_code {
+    border-left: 2px solid #707786;
+    border-right: inherit;
+    border-bottom: 2px solid #707786;
+    font-weight: 400;
+    color: #707786;
+    padding-top: 0.4rem;
+}
+
+.input_effect, select.input_effect {
+    color: #0D67F9!important;
+}
+
+.password_icon {
+    position: absolute;
+    top: 50%;
+    right: inherit;
+    transform: translate(0%, -50%);
+    left: 0;
+}
+
+.mobile_field .input_effect ~ label {
+    right: 1.07rem;
+    left: inherit;
+}
+
+.password_sec .input_effect {
+    padding-left: 2.5rem;
+    padding-right: inherit;
+}
+
+.border-right {
+    border-right: 1px solid #dee2e6!important;
+}
+
+.support_now_title {
+    font-size: 2.4rem;
+    color: #ffffff;
+}
+
+.slick-slider { 
+    direction: ltr;
+}
+
+.owl-carousel .owl-nav button.owl-prev, .owl-carousel .owl-nav button.owl-next { 
+    transform: rotate(180deg);
+}
+
+.banner_data { 
+    direction: rtl;
+    margin-top: 4rem;
+}
+
+.range_trading_btn { 
+    font-size: 1.2rem; 
+    font-weight: 600; 
+}
+
+.why_choose_btn_view {
+    transition: all 0.5s ease-out;
+    color: #062652;
+    font-weight: 500;
+}
+
+.contract_specifications_left li a img {
+    margin-left: 1rem;
+    margin-right: 0rem;
+}
+
+.featuresflex{ flex-direction: row-reverse;}
+
+
+.Advantagesinner{ min-height: 23.5rem;}
+.border5R{ border-left: 5px solid #100f49 !important; border-right: 0px;}
+span.customercontent{ padding-left: 0px; padding-right: 15px;}
+.innertablescontent p{ padding-left: 0rem; padding-right: 1.78rem;}
+.innertablescontent p::before{ left: auto; right: 2px;}
+
+.daily_forex_news_slider_rtl .owl-nav{ right: auto; left: 15px;}
+.daily_forex_news_data_sec{ min-height: 16rem;}
+.daily_financial_news_video iframe{ height: 32rem !important;}
+
+.daily_forex_news_img{ height: 15rem; overflow: hidden; display: flex; align-items: center; justify-content: center;}
+.daily_forex_news_img img{ max-width: 100%; max-height: 100%;}
+
+
+@media (min-width: 1920px){
+.banner_data {margin-top: 3rem !important;}
+.caption_pioint_sec li:nth-child(3) {
+    padding-top: 5.5rem !important;
+}
+}
+
+
+@media (max-width: 991.98px){
+.contract_specifications_left.border-right{ border-left: 0px !important;}
+.standered { text-align: right !important;}
+.Advantagesinner {
+    min-height: 19.5rem;
+}
+}
+
+.sidebar-menu li.login_toplink .btn_register {
+    width: 47%;
+    margin-right: 6%;
+    margin-left: inherit !important;;
+}
+
+
+
